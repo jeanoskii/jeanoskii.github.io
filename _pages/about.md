@@ -5,13 +5,12 @@ permalink: /
 subtitle: Do or do not, there is no ternary.
 
 profile:
-  align: left
+  align: right
   image: prof_pic_jeano.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    EC-Council Certified in Ethical Hacking Essentials
-    ISC2 Certified in Cybersecurity
-    Cisco Certified in Introduction to Cybersecurity
+    0926 742 4154
+    jeano.ermitano@live.com
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -34,6 +33,10 @@ For a quick background, I finished my degrees in information systems. I was a co
 Apart from lectures, I regularly attend the  school's computer science and information technology research symposiums as panel member. Talking about research with my fellow instructors and students has always been a humbling experience.
 
 I post content related to computers and technology here. Have a look; you may learn something new.
+
+*EC-Council Certified in Ethical Hacking Essentials | ISC2 Certified in Cybersecurity | Cisco Certified in Introduction to Cybersecurity*
+
+**P.S. Open to work**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
