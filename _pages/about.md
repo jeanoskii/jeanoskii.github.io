@@ -9,8 +9,8 @@ profile:
   image: prof_pic_jeano.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    0926 742 4154
-    jeano.ermitano@live.com
+    <a href="tel:0926 742 4154">0926 742 4154</a>
+    <a href="mailto:jeano.ermitano@live.com">jeano.ermitano@live.com</a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -34,7 +34,8 @@ Apart from lectures, I regularly attend the  school's computer science and infor
 
 I post content related to computers and technology here. Have a look; you may learn something new.
 
-*EC-Council Certified in Ethical Hacking Essentials | ISC2 Certified in Cybersecurity | Cisco Certified in Introduction to Cybersecurity*
+*EC-Council Certified in Ethical Hacking Essentials* | *ISC2 Certified in Cybersecurity* | *Cisco Certified in Introduction to Cybersecurity*
+
 
 **P.S. Open to work**
 
