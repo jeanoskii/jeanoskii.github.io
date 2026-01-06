@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Do or do not, there is no ternary.
+subtitle: <a href="tel:0926 742 4154">0926 742 4154</a> \| <a href="mailto:jeano.ermitano@live.com">jeano.ermitano@live.com</a>
+  
 
 profile:
   align: right
   image: prof_pic_jeano.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <a href="tel:0926 742 4154">0926 742 4154</a>
-    <a href="mailto:jeano.ermitano@live.com">jeano.ermitano@live.com</a>
+  more_info: Do or do not, there is no ternary.
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
