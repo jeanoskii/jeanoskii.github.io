@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Do or do not, there is no ternary.
 
 profile:
-  align: right
+  align: left
   image: prof_pic_jeano.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    EC-Council Certified in Ethical Hacking Essentials
+    ISC2 Certified in Cybersecurity
+    Cisco Certified in Introduction to Cybersecurity
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! I am Jeano, a tech hobbyist, and welcome to my website! This site holds information about myself, my interests, and my opinion (rather, ramblings) on things related to technology.
+
+For a quick background, I finished my degrees in information systems. I was a college professor at STI College Las Piñas for over five years, teaching courses in systems analysis and design, cybersecurity, automata theory and programming languages—all while serving as the head of the ICT academics department where I led a team of 17 ICT faculty.
+
+Apart from lectures, I regularly attend the  school's computer science and information technology research symposiums as panel member. Talking about research with my fellow instructors and students has always been a humbling experience.
+
+I post content related to computers and technology here. Have a look; you may learn something new.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ -->
