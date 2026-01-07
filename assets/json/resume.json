@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jeano Ermitaño",
     "label": "",
-    "image": "",
+    "image": "/assets/img/prof_pic_jeano.jpg",
     "email": "jeano.ermitano@live.com",
     "phone": "0926 742 4154",
     "url": "https://jeanoskii.github.io/",
@@ -39,18 +39,6 @@
       "startDate": "2016-06-19",
       "endDate": "2019-02-19",
       "summary": "Designing beautiful, responsive websites using the latest technologies to transform a copy into a fully-functioning website in less than 3 days.",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
       "highlights": [""]
     }
   ],
