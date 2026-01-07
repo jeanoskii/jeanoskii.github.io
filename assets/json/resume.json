@@ -45,25 +45,21 @@
   "education": [
     {
       "institution": "University of the Philippines Open University",
-      "location": "Los Baños, Laguna",
+      "location": "Laguna",
       "url": "https://www.upou.edu.ph/",
-      "area": "",
       "studyType": "Master of Information Systems",
       "startDate": "2016",
       "endDate": "2018",
-      "score": "",
-      "courses": [""]
+      "courses": ["IS 214: Principles of Programming Languages", "IS 272: Strategic Information Systems Development", "CMSC 208: Software Engineering", "CMSC 203: Computer Systems and Organization", "Capstone Project Title: Go Guro Mobile Application Built with Android and Firebase"]
     },
     {
       "institution": "De La Salle-College of Saint Benilde",
       "location": "Manila",
       "url": "https://www.benilde.edu.ph/",
-      "area": "",
       "studyType": "Bachelor of Science in Information Systems",
       "startDate": "2012",
       "endDate": "2015",
-      "score": "",
-      "courses": [""]
+      "courses": ["SYSANAL/SYSDESI: Systems Analysis and Design", "ISPROG1-3: C#/ASP.NET Programming", "PROGAP1-3: Java/JSP Programming", "INFOSEC: Information Security", "Capstone Project Title: Benilde Service Rating System"]
     }
   ],
   "awards": [
