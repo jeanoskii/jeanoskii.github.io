@@ -640,12 +640,12 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+  # - publications
   - projects
   # - volunteer
   - awards
   - certificates
   - skills
-  - languages
-  - interests
+  # - languages
+  # - interests
   - references
