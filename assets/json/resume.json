@@ -13,14 +13,7 @@
       "city": "Las Piñas",
       "countryCode": "Philippines",
       "region": "National Capital Region"
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -29,7 +22,7 @@
       "url": "https://sti.edu/",
       "startDate": "2019-07-19",
       "endDate": "2025-12-19",
-      "summary": "Managing the degree programs BSIT, BSCS, BSCpE, and BMMA, including faculty development plans, evaluation, student pre-assessment, faculty loading, etc. Also teaching college-level courses including software engineering, programming, interface design, cybersecurity, and automata theory.",
+      "summary": "Managing the degree programs BSIT, BSCS, BSCpE, and BMMA, including faculty development plans, evaluation, student pre-assessment, faculty loading, etc. Also teaching college-level courses including software engineering, programming, interface design, cybersecurity, and automata theory."
     },
     {
       "name": "Personiv",
