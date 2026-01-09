@@ -6,7 +6,7 @@
     "email": "jeano.ermitano@live.com",
     "phone": "0926 742 4154",
     "url": "https://jeanoskii.github.io/",
-    "summary": "",
+    "summary": "Accomplished IT professional with over 5 years of managerial experience, transitioning to cybersecurity with certifications in Cisco, ISC2,  and EC-Council Ethical Hacking Essentials, ready to leverage my leadership and technical skills to strengthen organizational security.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -124,7 +124,7 @@
       "date": "2019-10-17",
       "issuer": "UnionBank",
       "url": "",
-      "icon": "fa-solid fa-bitcoin"
+      "icon": "fa-solid fa-link"
     }
   ],
   "skills": [
@@ -176,11 +176,11 @@
   "references": [
     {
       "name": "Griselda G.",
-      "reference": "Academic Head\\nSTI College Las Piñas"
+      "reference": "Academic Head - STI College Las Piñas"
     },
     {
       "name": "Sean P.",
-      "reference": "Teacher I\\nCagayan National High School - Senior High"
+      "reference": "Teacher I - Cagayan National High School"
     }
   ],
   "projects": [
