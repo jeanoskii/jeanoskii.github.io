@@ -1,3 +1,5 @@
+<!--
+
 # Frequently Asked Questions
 
 Here are some frequently asked questions. If you have a different question, please check if it was not already answered in the Q&A section of the [GitHub Discussions](https://github.com/alshedivat/al-folio/discussions/categories/q-a). If not, feel free to ask a new question there.
@@ -178,3 +180,5 @@ These tools are generated automatically from our code and may not always reflect
 
 - **Code Wiki**: [Code Wiki for al-folio](https://codewiki.google/github.com/alshedivat/al-folio)
 - **DeepWiki**: [DeepWiki for al-folio](https://deepwiki.com/alshedivat/al-folio)
+
+-->
