@@ -5,6 +5,7 @@ date: 2026-01-08 21:00:00
 description:  Experiences on installing Wazuh
 tags: software installation wazuh
 categories: cybersecurity
+thumbnail: assets/img/posts/2026-01-08/Wazuh-logo.png
 mermaid:
   enabled: true
   zoomable: true
