@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What SIEMs to be the problem?
+title: 'What SIEMs to be the problem?'
 date: 2026-01-08 21:00:00
 description:  Experiences on installing Wazuh
 tags: software installation wazuh
@@ -19,5 +19,5 @@ Why Wazuh? Primarily, it's open-source. Second, the ease of installation. Lastly
     </div>
 </div>
 <div class="caption">
-    Mike "Wazuh"ski
+    Mike "Wazuh"wski
 </div>
