@@ -164,6 +164,15 @@
         "Modeling / UML",
         "Project Management"
       ]
+    },
+    {
+      "name": "Leadership",
+      "icon": "fa-solid fa-handshake",
+      "keywords": [
+        "Empathy",
+        "Open Communication",
+        "Cross-department Collaboration"
+      ]
     }
   ],
   "references": [
@@ -179,14 +188,14 @@
   "projects": [
     {
       "name": "Ethical Hacking Essentials Certification Exam",
-      "summary": "Mentored three BSCPE students to pass their EHE certification exam by EC-Council.",
+      "summary": "Mentored 3 BSCPE students to pass their EHE certification exam by EC-Council.",
       "startDate": "2025-12-10",
       "endDate": "2025-12-10",
       "url": "https://www.facebook.com/photo/?fbid=1203746325182574"
     },
     {
       "name": "Philippine Robotics Cup",
-      "summary": "Inspired twenty BSCPE students to volunteer as ushers and referees for Creotec Philippines Inc.",
+      "summary": "Inspired 20 BSCPE students to volunteer as ushers and referees for Creotec Philippines Inc. during their event.",
       "startDate": "2025-10-29",
       "endDate": "2025-10-29",
       "url": "https://www.facebook.com/photo/?fbid=1177760064447867"
@@ -214,7 +223,7 @@
     },
     {
       "name": "Blockchain Xcellerator Experts Program",
-      "summary": "Led a team of three ICT faculty members to the final round of U:HACK, a blockchain hackathon hosted by UnionBank.",
+      "summary": "Led a team of 3 ICT faculty members to the final round of U:HACK, a blockchain hackathon hosted by UnionBank.",
       "highlights": ["Solidity"],
       "startDate": "2019-10-19",
       "endDate": "2019-11-21",
