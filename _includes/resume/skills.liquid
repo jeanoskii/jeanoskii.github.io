@@ -22,7 +22,13 @@
             <tr>
               <td></td>
               <td class="list-group-name">
-                <b>{{ item }}</b>
+                <b>
+                  {% if item.link %}
+                    <a href="{{ item.link }}">{{ item.text }}</a>
+                  {% else %}
+                    {{ item }}
+                  {% endif %}
+                </b>
               </td>
             </tr>
           {% endfor %}

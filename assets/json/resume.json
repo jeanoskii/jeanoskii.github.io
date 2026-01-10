@@ -188,6 +188,15 @@
         "Open Communication",
         "Cross-department Collaboration"
       ]
+    },
+    {
+      "name": "Teaching",
+      "icon": "fa-solid fa-graduation-cap",
+      "keywords": [
+        "Effective Classroom Management",
+        "Profiency in Microsoft Excel",
+        {"text": "Effective Classroom Management", "link": "www.example.com"}
+      ]
     }
   ],
   "references": [
