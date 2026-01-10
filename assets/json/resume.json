@@ -1,15 +1,12 @@
 {
   "basics": {
     "name": "Jeano Ermitaño",
-    "label": "",
     "image": "/assets/img/prof_pic_jeano.jpg",
     "email": "jeano.ermitano@live.com",
     "phone": "0926 742 4154",
     "url": "https://jeanoskii.github.io/",
     "summary": "Accomplished IT professional with over 5 years of managerial experience, transitioning to cybersecurity with certifications in Cisco, ISC2,  and EC-Council Ethical Hacking Essentials, ready to leverage my leadership and technical skills to strengthen organizational security.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Las Piñas",
       "countryCode": "Philippines",
       "region": "National Capital Region"
@@ -130,7 +127,6 @@
   "skills": [
     {
       "name": "Ethical Hacking",
-      "level": "",
       "icon": "fa-solid fa-user-secret",
       "keywords": [
         "Nmap",
@@ -142,7 +138,6 @@
     },
     {
       "name": "Applications Programming",
-      "level": "",
       "icon": "fa-solid fa-code",
       "keywords": [
         "C# / ASP.NET",
@@ -154,7 +149,6 @@
     },
     {
       "name": "Reverse Engineering",
-      "level": "",
       "icon": "fa-solid fa-unlock",
       "keywords": [
         "RadASM",
@@ -164,7 +158,6 @@
     },
     {
       "name": "System Analysis and Design",
-      "level": "",
       "icon": "fa-solid fa-sitemap",
       "keywords": [
         "Requirements Analysis",

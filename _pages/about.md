@@ -27,7 +27,7 @@ latest_posts:
 
 Hello there! I am Jeano, a tech hobbyist, and welcome to my website! This site holds information about myself, my interests, and my opinion (rather, ramblings) on things related to technology.
 
-For a quick background, I finished my degrees in information systems. I was a college professor at STI College Las Piñas for over five years, teaching courses in systems analysis and design, cybersecurity, automata theory and programming languages—all while serving as the head of the ICT academics department where I led a team of 17 ICT faculty.
+For a quick background, I finished my degrees in information systems. I was a college professor at STI College Las Piñas for over 5 years, teaching courses in systems analysis and design, cybersecurity, automata theory and programming languages—all while acting as the head of the ICT academics department where I led a team of 20 ICT faculty members, serving over 1,000 students.
 
 Apart from lectures, I regularly attend the  school's computer science and information technology research symposiums as panel member. Talking about research with my fellow instructors and students has always been a humbling experience.
 
