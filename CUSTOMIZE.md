@@ -8,7 +8,6 @@ Here we will give you some tips on how to customize the website. One important t
 
 <!--ts-->
 
-- [Customize](#customize)
   - [Project structure](#project-structure)
   - [Configuration](#configuration)
   - [GitHub Copilot Customization Agent](#github-copilot-customization-agent)
