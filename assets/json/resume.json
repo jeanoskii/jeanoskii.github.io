@@ -71,14 +71,21 @@
       "name": "HCIA-Security",
       "date": "2025-09",
       "issuer": "Huawei",
-      "url": "",
+      "url": "/assets/img/certificates/huawei_hcia security.pdf",
       "icon": "fa-solid fa-lock"
     },
     {
       "name": "Vulnerability Management",
       "date": "2025-06",
       "issuer": "Qualys",
-      "url": "",
+      "url": "/assets/img/certificates/qualys_vulnerability management.pdf",
+      "icon": "fa-solid fa-bug"
+    },
+    {
+      "name": "Introduction to Incident Command System, ICS-100",
+      "date": "2025-06",
+      "issuer": "FEMA",
+      "url": "/assets/img/certificates/fema_incident command system.pdf",
       "icon": "fa-solid fa-bug"
     },
     {
@@ -113,21 +120,21 @@
       "name": "Image Management and Elastic Volume Service",
       "date": "2022-04",
       "issuer": "Huawei",
-      "url": "",
+      "url": "/assets/img/certificates/huawei_image management and elastic volume service certificate.pdf",
       "icon": "fa-solid fa-cloud"
     },
     {
       "name": "HCIA-Cloud Computing",
       "date": "2021-08",
       "issuer": "Huawei",
-      "url": "",
+      "url": "/assets/img/certificates/huawei_hcia cloud computing.pdf",
       "icon": "fa-solid fa-cloud"
     },
     {
       "name": "Blockchain Xcellerator Experts Program",
       "date": "2019-10-17",
       "issuer": "UnionBank",
-      "url": "",
+      "url": "/assets/img/certificates/blockchain_uhack certificate.pdf",
       "icon": "fa-solid fa-link"
     }
   ],
@@ -230,7 +237,7 @@
     },
     {
       "name": "Multimedia Arts Recognition",
-      "summary": "Initiated the institutional membership of the school in the Animation Council of the Philippines (ACPI), as requirement for CHED recognition of the BMMA program.",
+      "summary": "Initiated the institutional membership of STI College Las Piñas in the Animation Council of the Philippines (ACPI), as requirement for CHED recognition of the BMMA program.",
       "startDate": "2020-07-23",
       "endDate": "2025-10-17"
     },
