@@ -110,6 +110,13 @@
       "icon": "fa-solid fa-code"
     },
     {
+      "name": "Image Management and Elastic Volume Service",
+      "date": "2022-04",
+      "issuer": "Huawei",
+      "url": "",
+      "icon": "fa-solid fa-cloud"
+    },
+    {
       "name": "HCIA-Cloud Computing",
       "date": "2021-08",
       "issuer": "Huawei",
@@ -220,6 +227,12 @@
       "startDate": "2024-01-08",
       "endDate": "2024-01-10",
       "url": "https://www.facebook.com/watch/?v=909308904196252"
+    },
+    {
+      "name": "Multimedia Arts Recognition",
+      "summary": "Initiated the institutional membership of the school in the Animation Council of the Philippines (ACPI), as requirement for CHED recognition of the BMMA program.",
+      "startDate": "2020-07-23",
+      "endDate": "2025-10-17"
     },
     {
       "name": "Blockchain Xcellerator Experts Program",
