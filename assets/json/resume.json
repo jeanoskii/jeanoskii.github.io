@@ -31,10 +31,11 @@
         "Prepared activity proposals, budget requests, and liquidation of department events.",
         "Participated in student engagement such as enrollment and orientation.",
         "Collaborated with the Admission Office during student acquisition activities.",
-        "Mediated escalation of student concerns with the Guidance Office",
+        "Mediated escalation of student concerns with the Guidance Office.",
         "Coordinated with the MIS department to recommend, procure, and configure hardware and software for each degree program.",
-        "Assessed acceptability of BSIT and BSCS capstone projects.",
-        "Disclosed vulnerabilities regarding information systems using TTP framework",
+        "Assessed acceptability of BSIT and BSCS capstone projects during thesis defense.",
+        "Disclosed vulnerabilities regarding information systems using TTP framework.",
+        "Automated tasks such as generation of exam attendance sheet.",
         "Created informative faculty guides and supplementary student learning materials.",
         "Attended networking opportunities within STI and externally with partner organizations."
       ]
@@ -45,7 +46,17 @@
       "url": "https://personiv.com/",
       "startDate": "2016-06-19",
       "endDate": "2019-02-19",
-      "summary": "Designing beautiful, responsive websites using the latest technologies to transform a copy into a fully-functioning website in less than 3 days."
+      "summary": "Designing beautiful, responsive websites using the latest technologies to transform a copy into a fully-functioning website in less than 3 days.",
+      "highlights": [
+        "Built new and modified existing websites using Duda, Thryv.",
+        "Maintained SLA of 4 hours for new website builds, and 1 hour for modifications.",
+        "Migrated legacy websites to the currently supported platform.",
+        "Used Adobe Photoshop and Illustrator to create or revise website assets.",
+        "Audited SEO and website performance using Google Lighthouse.",
+        "Tracked website status in Google Sheets, SalesForce, and Atlassian JIRA.",
+        "Went to Personiv Gurugram in India as part of two-man specialist team tasked to oversee usage of new design tool.",
+        "Participated in employee welfare activities such as mural painting and prop making, "
+      ]
     }
   ],
   "education": [
