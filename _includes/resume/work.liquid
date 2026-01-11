@@ -41,7 +41,13 @@
           <ul class="items">
             {% for item in content.highlights %}
               <li>
-                <span class="item">{{ item }}</span>
+                <span class="item">
+                  {% if item.link %}
+                    <a href="{{ item.link }}">{{ item.text }}</a>
+                  {% else %}
+                    {{ item }}
+                  {% endif %}
+                </span>
               </li>
             {% endfor %}
           </ul>
