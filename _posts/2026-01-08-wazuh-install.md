@@ -3,8 +3,8 @@ layout: post
 title: 'What SIEMs to be the problem?'
 date: 2026-01-08 21:00:00
 description:  Experiences on installing Wazuh
-tags: software installation wazuh ubuntu virtualbox
-categories: cybersecurity linux siem virtualization
+tags: software installation wazuh ubuntu
+categories: cybersecurity linux
 thumbnail: assets/img/posts/2026-01-08/Wazuh-Logo.png
 mermaid:
   enabled: true
