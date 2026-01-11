@@ -9,14 +9,13 @@ pretty_table: true
 ---
 
 <small>*Legend:*</small>
-<small>
-- *BMMA = Bachelor of Multimedia Arts*
-- *BSIT = Bachelor of Science in Information Technology*
-- *BSCS = Bachelor of Science in Computer Science*
-- *BSCPE = Bachelor of Science in Computer Engineering*
-- *BSAIS = Bachelor of Science in Accounting and Information Systems*
-- *IT-MAWD = Information Technology-Mobile Application and Web Development*
-</small>
+- <small>*BMMA = Bachelor of Multimedia Arts*</small>
+- <small>*BSIT = Bachelor of Science in Information Technology*</small>
+- <small>*BSCS = Bachelor of Science in Computer Science*</small>
+- <small>*BSCPE = Bachelor of Science in Computer Engineering*</small>
+- <small>*BSAIS = Bachelor of Science in Accounting and Information Systems*</small>
+- <small>*IT-MAWD = Information Technology-Mobile Application and Web Development*</small>
+
 
 <table
   data-search="true"
