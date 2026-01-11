@@ -159,7 +159,7 @@
         "Xamarin / .NET MAUI",
         "Java / Android",
         "SQL",
-        "Automata Theory and Compiler Design"
+        "Firebase"
       ]
     },
     {
@@ -169,6 +169,15 @@
         "RadASM",
         "OllyDbg",
         "ILSpy"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "icon": "fa-solid fa-desktop",
+      "keywords": [
+        "Windows",
+        "Ubuntu",
+        "VirtualBox / Virtualization"
       ]
     },
     {
@@ -194,7 +203,7 @@
       "icon": "fa-solid fa-graduation-cap",
       "keywords": [
         "Effective Classroom Management",
-        "Profiency in Microsoft Excel",
+        "Proficiency in Microsoft Excel",
         {"text": "See list of subjects taught", "link": "/assets/pdf/List of Subjects Taught.pdf"}
       ]
     }
