@@ -8,13 +8,15 @@ nav_order: 6
 pretty_table: true
 ---
 
-Legend:
-- BMMA = Bachelor of Multimedia Arts
-- BSIT = Bachelor of Science in Information Technology
-- BSCS = Bachelor of Science in Computer Science
-- BSCPE = Bachelor of Science in Computer Engineering
-- BSAIS = Bachelor of Science in Accounting and Information Systems
-- IT-MAWD = Information Technology-Mobile Application and Web Development
+<small>*Legend:*</small>
+<small>
+- *BMMA = Bachelor of Multimedia Arts*
+- *BSIT = Bachelor of Science in Information Technology*
+- *BSCS = Bachelor of Science in Computer Science*
+- *BSCPE = Bachelor of Science in Computer Engineering*
+- *BSAIS = Bachelor of Science in Accounting and Information Systems*
+- *IT-MAWD = Information Technology-Mobile Application and Web Development*
+</small>
 
 <table
   data-search="true"
