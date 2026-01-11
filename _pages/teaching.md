@@ -11,7 +11,7 @@ nav_order: 6
   id="table"
   data-search="true"
   data-toggle="table"
-  data-url="{{ '/assets/json/table_data.json' | relative_url }}">
+  data-url="/assets/json/table_data.json">
   <thead>
     <tr>
       <th data-field="Subject" data-halign="left" data-align="center" data-sortable="true">Subject</th>
