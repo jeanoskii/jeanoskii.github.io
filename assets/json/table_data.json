@@ -1,128 +1,200 @@
 [
   {
-    "id": 0,
-    "name": "Item 0",
-    "price": "$0",
-    "amount": 3
+    "Subject": "2D Animation",
+    "Area of Competency": "OpenToonz",
+    "Program/Strand": "BMMA",
+    "Level": "College"
   },
   {
-    "id": 1,
-    "name": "Item 1",
-    "price": "$1",
-    "amount": 4
+    "Subject": "3D Modeling",
+    "Area of Competency": "Blender",
+    "Program/Strand": "BMMA",
+    "Level": "College"
   },
   {
-    "id": 2,
-    "name": "Item 2",
-    "price": "$2",
-    "amount": 8
+    "Subject": "Advanced Database Systems",
+    "Area of Competency": "SQL Server, MongoDB",
+    "Program/Strand": "BSIT",
+    "Level": "College"
   },
   {
-    "id": 3,
-    "name": "Item 3",
-    "price": "$3",
-    "amount": 2
+    "Subject": "Advanced Mobile Programming",
+    "Area of Competency": "Power Apps",
+    "Program/Strand": "BSCS",
+    "Level": "College"
   },
   {
-    "id": 4,
-    "name": "Item 4",
-    "price": "$4",
-    "amount": 90
+    "Subject": "Advanced Web Design",
+    "Area of Competency": "PHP, MySQL",
+    "Program/Strand": "BMMA",
+    "Level": "College"
   },
   {
-    "id": 5,
-    "name": "Item 5",
-    "price": "$5",
-    "amount": 2
+    "Subject": "Advanced Web Programming",
+    "Area of Competency": "ASP.NET",
+    "Program/Strand": "BSCS",
+    "Level": "College"
   },
   {
-    "id": 6,
-    "name": "Item 6",
-    "price": "$6",
-    "amount": 3
+    "Subject": "Practicum",
+    "Area of Competency": "Job hunting",
+    "Program/Strand": "BSIT, BSCS, BSCPE",
+    "Level": "College"
   },
   {
-    "id": 7,
-    "name": "Item 7",
-    "price": "$7",
-    "amount": 7
+    "Subject": "Computer Network and Security",
+    "Area of Competency": "Parrot OS, Wireshark, Burp Suite, other ethical hacking tools",
+    "Program/Strand": "BSCPE",
+    "Level": "College"
   },
   {
-    "id": 8,
-    "name": "Item 8",
-    "price": "$8",
-    "amount": 39
+    "Subject": "Computer Productivity Tools",
+    "Area of Competency": "Microsoft Office 365",
+    "Program/Strand": "All Non-ICT Programs",
+    "Level": "College"
   },
   {
-    "id": 9,
-    "name": "Item 9",
-    "price": "$9",
-    "amount": 78
+    "Subject": "Computer Programming 1",
+    "Area of Competency": "Java",
+    "Program/Strand": "BSIT",
+    "Level": "College"
   },
   {
-    "id": 10,
-    "name": "Item 10",
-    "price": "$10",
-    "amount": 30
+    "Subject": "Computer Programming 2",
+    "Area of Competency": "HTML, CSS, Javascript",
+    "Program/Strand": "IT-MAWD",
+    "Level": "Senior High School"
   },
   {
-    "id": 11,
-    "name": "Item 11",
-    "price": "$11",
-    "amount": 32
+    "Subject": "Computer Programming 3",
+    "Area of Competency": "C#",
+    "Program/Strand": "BSCS",
+    "Level": "College"
   },
   {
-    "id": 12,
-    "name": "Item 12",
-    "price": "$12",
-    "amount": 12
+    "Subject": "Empowerment Technologies",
+    "Area of Competency": "Canva, Figma, website builders",
+    "Program/Strand": "All SHS Strands",
+    "Level": "Senior High School"
   },
   {
-    "id": 13,
-    "name": "Item 13",
-    "price": "$13",
-    "amount": 76
+    "Subject": "Game Development",
+    "Area of Competency": "Unity",
+    "Program/Strand": "BSIT",
+    "Level": "College"
   },
   {
-    "id": 14,
-    "name": "Item 14",
-    "price": "$14",
-    "amount": 10
+    "Subject": "Information Assurance & Security (Cybersecurity Fundamentals)",
+    "Area of Competency": "Parrot OS, Wireshark, Burp Suite, other ethical hacking tools",
+    "Program/Strand": "BSCS",
+    "Level": "College"
   },
   {
-    "id": 15,
-    "name": "Item 15",
-    "price": "$15",
-    "amount": 9
+    "Subject": "Information Security and Management",
+    "Area of Competency": "High-level overview of cybersecurity",
+    "Program/Strand": "BSAIS",
+    "Level": "College"
   },
   {
-    "id": 16,
-    "name": "Item 16",
-    "price": "$16",
-    "amount": 8
+    "Subject": "Information Systems Analysis and Design",
+    "Area of Competency": "In-depth of the first stages of SDLC",
+    "Program/Strand": "BSAIS",
+    "Level": "College"
   },
   {
-    "id": 17,
-    "name": "Item 17",
-    "price": "$17",
-    "amount": 1
+    "Subject": "Information Systems Operations and Maintenance",
+    "Area of Competency": "In-depth of the final stages of SDLC",
+    "Program/Strand": "BSAIS",
+    "Level": "College"
   },
   {
-    "id": 18,
-    "name": "Item 18",
-    "price": "$18",
-    "amount": 99
+    "Subject": "Interactive Media Design",
+    "Area of Competency": "Figma",
+    "Program/Strand": "BMMA",
+    "Level": "College"
   },
   {
-    "id": 19,
-    "name": "Item 19",
-    "price": "$19",
-    "amount": 100
+    "Subject": "Intermediate Mobile Programming",
+    "Area of Competency": "Xamarin, .NET MAUI",
+    "Program/Strand": "BSCS",
+    "Level": "College"
   },
   {
-    "id": 20,
-    "name": "Item 20",
-    "price": "$20",
-    "amount": 109
+    "Subject": "IT Application Tools in Business",
+    "Area of Competency": "Common IS: TPS, CRM, SCM, etc.",
+    "Program/Strand": "BSAIS",
+    "Level": "College"
+  },
+  {
+    "Subject": "Java Micro Edition Programming",
+    "Area of Competency": "Java",
+    "Program/Strand": "BSIT",
+    "Level": "College"
+  },
+  {
+    "Subject": "Management Information Systems",
+    "Area of Competency": "Common IS: TPS, CRM, MIS, etc.",
+    "Program/Strand": "BSIT",
+    "Level": "College"
+  },
+  {
+    "Subject": "Managing Information and Technology",
+    "Area of Competency": "High-level overview of technological terms and its usage",
+    "Program/Strand": "BSAIS",
+    "Level": "College"
+  },
+  {
+    "Subject": "Mobile Applications Development",
+    "Area of Competency": "Android",
+    "Program/Strand": "BSIT, IT-MAWD",
+    "Level": "College, Senior High School"
+  },
+  {
+    "Subject": "Programming Languages",
+    "Area of Competency": "Compiler design in Python",
+    "Program/Strand": "BSCS",
+    "Level": "College"
+  },
+  {
+    "Subject": "Programming Logic and Design",
+    "Area of Competency": "Java",
+    "Program/Strand": "BSCPE",
+    "Level": "College"
+  },
+  {
+    "Subject": "Seminars and Fieldtrips",
+    "Area of Competency": "Educational tour",
+    "Program/Strand": "BSCPE",
+    "Level": "College"
+  },
+  {
+    "Subject": "Software Design",
+    "Area of Competency": "SDLC process from start to end",
+    "Program/Strand": "BSCPE",
+    "Level": "College"
+  },
+  {
+    "Subject": "Software Engineering",
+    "Area of Competency": "SDLC process from start to end",
+    "Program/Strand": "BSIT",
+    "Level": "College"
+  },
+  {
+    "Subject": "Software Engineering 1",
+    "Area of Competency": "In-depth of the first stages of SDLC",
+    "Program/Strand": "BSCS",
+    "Level": "College"
+  },
+  {
+    "Subject": "Software Engineering 2",
+    "Area of Competency": "In-depth of the final stages of SDLC",
+    "Program/Strand": "BSCS",
+    "Level": "College"
+  },
+  {
+    "Subject": "Theory of Computations with Automata",
+    "Area of Competency": "Computational models and formal language ",
+    "Program/Strand": "BSCS",
+    "Level": "College"
   }
 ]
