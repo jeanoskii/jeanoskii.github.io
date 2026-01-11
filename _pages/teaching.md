@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Tabular list of subjects taught
 nav: false
 nav_order: 6
 ---
 
 <table
+  id="table"
   data-search="true"
   data-toggle="table"
   data-url="{{ '/assets/json/table_data.json' | relative_url }}">
