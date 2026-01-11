@@ -5,6 +5,7 @@ title: Teaching
 description: Tabular list of subjects taught
 nav: false
 nav_order: 6
+pretty_table: true
 ---
 
 <table
