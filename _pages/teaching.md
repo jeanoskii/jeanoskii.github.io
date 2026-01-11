@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: List of subjects taught, from 2019 to 2025.
+description: List of subjects taught from 2019 to 2025.
 nav: false
 nav_order: 6
 pretty_table: true
