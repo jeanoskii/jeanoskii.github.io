@@ -9,9 +9,6 @@ pretty_table: true
 ---
 
 <table
-  data-click-to-select="true"
-  data-height="460"
-  data-pagination="true"
   data-search="true"
   data-toggle="table"
   data-url="{{ '/assets/json/table_data.json' | relative_url }}"
