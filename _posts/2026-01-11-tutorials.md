@@ -17,12 +17,12 @@ So let's take a trip down memory lane!
 
 The second video was about database normalization. In this video, the first to fifth normal forms were discussed, along with examples. I opted for a more academic but engaging approach to this video, unlike the previous video. This was part of a group activity, so I volunteered to create the video while the others worked on the content. Upon receiving the initial draft of the script, it took me 20 minutes. In my mind, who wants to watch 20 minutes? I looked for similar explainer-type videos, and their approach was to explain a topic within a time limit, usually 5 or 10 minutes. I took this inspiration and modified the script to reach 10 minutes instead. After a few recording and editing sessions, the video was published to our class. The instructor, and our classmates, loved our work! From the comments we got, the consensus was that we were able to take a difficult topic yet discuss it concisely and engagingly as possible.
 
-<div class="row mt-3 min-vh-100">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/c3qxRpnPgYE" class="embed-responsive z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 embed-responsive">
+        {% include video.liquid path="https://www.youtube.com/embed/c3qxRpnPgYE" class="embed-responsive-item z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="embed-responsive z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 embed-responsive">
+        {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="embed-responsive-item z-depth-1" %}
     </div>
 </div>
 
