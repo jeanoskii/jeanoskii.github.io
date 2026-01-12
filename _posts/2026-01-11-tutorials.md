@@ -39,7 +39,9 @@ The next video was a tutorial on how to inject DLLs, make windows unclosable, an
 
 After I graduated my masters, content creation slowed down. It wasn't until 2019 where I touched video editing software again. At the height of the pandemic, I was teaching at STI College Las Piñas. The current materials for my subjects wasn't enough for me, I had to supplement it. Quizzes, assignments, and exams were adjusted to adapt to online learning modality. This included the way I approached lecturing. I had an opinion that an online class going over 3 hours is not conducive. Therefore, I recorded a sessions of myself explaining the topic, going over the software, what to do, what to click, etc. I then had students watch the video while doing the laboratory activity. This way, even if I'm not with them, the students can refer to the instructions in the video to accomplish the task. Mind you, not all students have access to a computer. I had to look for software that students can use with their existing devices (i.e. an Android phone).
 
-{% include video.liquid path="https://www.youtube.com/embed/ewNaKoSS4hg" class="img-fluid rounded z-depth-1" %}
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+    {% include video.liquid path="https://www.youtube.com/embed/ewNaKoSS4hg" class="embed-responsive-item rounded z-depth-1" %}
+</div>
 
 While creating this blog post, I rewatched my recordings; Feeling cringe but at the same time nostalgia. Some of the videos I made was for an academic requirement, while others for my students. I'd like to think that, for a while, the videos I made helped out a struggling student. And for me, that's all I need to know.
 
