@@ -2,7 +2,7 @@
 layout: post
 title: Watch me on Youtube
 date: 2026-01-11 21:01:00
-description: Reminiscing the time I made video essays, explainers, and tutorials
+description: 'Reminiscing the time I made video essays, explainers, and tutorials'
 tags: database ethics reverse-engineering operating-systems
 categories: retrospective
 ---
