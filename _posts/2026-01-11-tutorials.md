@@ -22,32 +22,24 @@ So let's take a trip down memory lane!
 The second video was about database normalization. In this video, the first to fifth normal forms were discussed, along with examples. I opted for a more academic but engaging approach to this video, unlike the previous video. This was part of a group activity, so I volunteered to create the video while the others worked on the content. Upon receiving the initial draft of the script, it took me 20 minutes. In my mind, who wants to watch 20 minutes? I looked for similar explainer-type videos, and their approach was to explain a topic within a time limit, usually 5 or 10 minutes. I took this inspiration and modified the script to reach 10 minutes instead. After a few recording and editing sessions, the video was published to our class. The instructor, and our classmates, loved our work! From the comments we got, the consensus was that we were able to take a difficult topic yet discuss it concisely and engagingly as possible.
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-    {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="embed-responsive-item z-depth-1" %}
+    {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="embed-responsive-item rounded z-depth-1" %}
 </div>
 
 The year is now 2017. I passed the first semester of my graduate studies, and I well on my way to the second semester. I was enrolled in the course Advanced Computer Systems. I thought this was going to be a boring subject, but our professor had other plans. The laboratory activities are both tedious, yet enjoyable. He had us explore <a href="https://samsungtizenos.com/">Tizen OS</a> and create a simple application—talk about obscure! Going back to the video, the assigned topic was concurrency. This time, I imitated the style of <a href="https://www.youtube.com/user/Vsauce">Vsauce</a>. I'm a big fan of Vsauce and their approach to content creation. I had fun finding funny but related GIFs to insert in the video, especially the one at <a href="https://youtu.be/_pJCXxcX_r0?t=106">1:46</a> of the video.
 
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+    {% include video.liquid path="https://www.youtube.com/embed/_pJCXxcX_r0" class="embed-responsive-item rounded z-depth-1" %}
+</div>
+
 The next video was a tutorial on how to inject DLLs, make windows unclosable, and decompile Visual Basic code. I know, that's a lot. Please bear with me, as this video is over 15 minutes long, and full of jargon. For this video, since the requirement is to demonstrate the practical use of reverse engineering tools (and I had little time), I was not able to structure the video in any creative way. The video is just me, sharing my screen, and doing <a href="https://legend.octopuslabs.io/">R4ndom's Beginning Reverse Engineering Tutorials</a>. This was my first foray into reverse engineering, and using tools such as RadASM, OllyDbg, and ILSpy.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/_pJCXxcX_r0" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/08N5iRhtd70" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+    {% include video.liquid path="https://www.youtube.com/embed/08N5iRhtd70" class="embed-responsive-item rounded z-depth-1" %}
 </div>
 
 After I graduated my masters, content creation slowed down. It wasn't until 2019 where I touched video editing software again. At the height of the pandemic, I was teaching at STI College Las Piñas. The current materials for my subjects wasn't enough for me, I had to supplement it. Quizzes, assignments, and exams were adjusted to adapt to online learning modality. This included the way I approached lecturing. I had an opinion that an online class going over 3 hours is not conducive. Therefore, I recorded a sessions of myself explaining the topic, going over the software, what to do, what to click, etc. I then had students watch the video while doing the laboratory activity. This way, even if I'm not with them, the students can refer to the instructions in the video to accomplish the task. Mind you, not all students have access to a computer. I had to look for software that students can use with their existing devices (i.e. an Android phone).
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/ewNaKoSS4hg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/ScgfcA38l6A" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/ewNaKoSS4hg" class="img-fluid rounded z-depth-1" %}
 
 While creating this blog post, I rewatched my recordings; Feeling cringe but at the same time nostalgia. Some of the videos I made was for an academic requirement, while others for my students. I'd like to think that, for a while, the videos I made helped out a struggling student. And for me, that's all I need to know.
 
