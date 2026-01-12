@@ -19,10 +19,10 @@ The second video was about database normalization. In this video, the first to f
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=c3qxRpnPgYE" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/c3qxRpnPgYE" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=v3N5PlbUHTs" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -32,10 +32,10 @@ The next video was a tutorial on how to inject DLLs, make windows unclosable, an
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=_pJCXxcX_r0" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/_pJCXxcX_r0" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=08N5iRhtd70" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/08N5iRhtd70" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,10 +43,10 @@ After I graduated my masters, content creation slowed down. It wasn't until 2019
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=ewNaKoSS4hg" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/ewNaKoSS4hg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=ScgfcA38l6A" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/ScgfcA38l6A" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
