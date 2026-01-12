@@ -19,10 +19,10 @@ The second video was about database normalization. In this video, the first to f
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/c3qxRpnPgYE" class="embed-responsive z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/c3qxRpnPgYE" class="embed-responsive-4by3 z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="embed-responsive z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/v3N5PlbUHTs" class="embed-responsive-16by9 z-depth-1" %}
     </div>
 </div>
 
