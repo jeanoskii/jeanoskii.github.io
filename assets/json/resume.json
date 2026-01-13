@@ -6,7 +6,7 @@
   },
   "basics": {
     "name": "Jeano Ermitaño",
-    "image": "/assets/img/prof_pic_jeano.jpg",
+    "image": "https://jeanoskii.github.io/assets/img/prof_pic_jeano.jpg",
     "email": "jeano.ermitano@live.com",
     "phone": "0926 742 4154",
     "url": "https://jeanoskii.github.io/",
@@ -24,7 +24,7 @@
       "url": "https://sti.edu/",
       "startDate": "2019-07-19",
       "endDate": "2025-12-19",
-      "summary": "Managed ICT-related degree programs with a team of 20 faculty members",
+      "summary": "Managed ICT-related degree programs with a team of 20 faculty members.",
       "highlights": [
         "Ensured compliance to curriculum of BSIT, BSCS, BSCPE, and BMMA programs.",
         "Conducted regular department meetings similar to Agile restrospectives.",
@@ -162,7 +162,7 @@
       "name": "HCIA-Cloud Computing",
       "date": "2021-08",
       "issuer": "Huawei",
-      "url": "httsp://jeanoskii.github.io/assets/pdf/huawei_hcia-cloud-computing.pdf",
+      "url": "https://jeanoskii.github.io/assets/pdf/huawei_hcia-cloud-computing.pdf",
       "icon": "fa-solid fa-cloud"
     },
     {
