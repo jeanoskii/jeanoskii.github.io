@@ -38,8 +38,7 @@
         "Identified and disclosed vulnerabilities regarding information systems using TTP framework.",
         "Automated tasks such as generation of exam attendance sheet.",
         "Created informative faculty guides and supplementary student learning materials.",
-        "Attended networking opportunities within STI and externally with partner organizations.",
-        {"text": "See list of subjects taught", "link": "/teaching"}
+        "Attended networking opportunities within STI and externally with partner organizations."
       ]
     },
     {
@@ -102,21 +101,21 @@
       "name": "HCIA-Security",
       "date": "2025-09",
       "issuer": "Huawei",
-      "url": "/assets/pdf/huawei_hcia security.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/huawei_hcia security.pdf",
       "icon": "fa-solid fa-shield"
     },
     {
       "name": "Vulnerability Management",
       "date": "2025-06",
       "issuer": "Qualys",
-      "url": "/assets/pdf/qualys_vulnerability management.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/qualys_vulnerability management.pdf",
       "icon": "fa-solid fa-bug"
     },
     {
       "name": "Introduction to Incident Command System, ICS-100",
       "date": "2025-06",
       "issuer": "FEMA",
-      "url": "/assets/pdf/fema_incident command system.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/fema_incident command system.pdf",
       "icon": "fa-solid fa-bug"
     },
     {
@@ -144,28 +143,28 @@
       "name": "Java Explorer",
       "date": "2022-10",
       "issuer": "Oracle Academy",
-      "url": "/assets/pdf/java explorer certificate.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/java explorer certificate.pdf",
       "icon": "fa-solid fa-code"
     },
     {
       "name": "Image Management and Elastic Volume Service",
       "date": "2022-04",
       "issuer": "Huawei",
-      "url": "/assets/pdf/huawei_image management and elastic volume service certificate.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/huawei_image management and elastic volume service certificate.pdf",
       "icon": "fa-solid fa-cloud"
     },
     {
       "name": "HCIA-Cloud Computing",
       "date": "2021-08",
       "issuer": "Huawei",
-      "url": "/assets/pdf/huawei_hcia cloud computing.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/huawei_hcia cloud computing.pdf",
       "icon": "fa-solid fa-cloud"
     },
     {
       "name": "Blockchain Xcellerator Experts Program",
       "date": "2019-10-17",
       "issuer": "UnionBank",
-      "url": "/assets/pdf/blockchain_uhack certificate.pdf",
+      "url": "https:/jeanoskii.github.io/assets/pdf/blockchain_uhack certificate.pdf",
       "icon": "fa-solid fa-link"
     }
   ],
