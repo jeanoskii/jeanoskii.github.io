@@ -5,7 +5,7 @@
     "email": "jeano.ermitano@live.com",
     "phone": "0926 742 4154",
     "url": "https://jeanoskii.github.io/",
-    "summary": "Accomplished IT professional with over 5 years of managerial experience, transitioning to cybersecurity with certifications in Cisco, ISC2,  and EC-Council Ethical Hacking Essentials, ready to leverage my leadership and technical skills to strengthen organizational security.",
+    "summary": "Accomplished IT professional with over 5 years of managerial experience, transitioning to cybersecurity with certifications in Cisco, ISC2, and EC-Council Ethical Hacking Essentials, ready to leverage my leadership and technical skills to strengthen organizational security.",
     "location": {
       "city": "Las Piñas",
       "countryCode": "Philippines",
@@ -25,16 +25,17 @@
         "Conducted regular department meetings similar to Agile restrospectives.",
         "Trained faculty members during INSET and onboarding on the use of teacher applications.",
         "Evaluated faculty member performance though mentoring, giving coaching sessions and appraisals.",
-        "Presented concerns, goals, and achievements of the department during management committee meetings.",
+        "Interviewed candidates for teaching positions and recommended applicants for hiring",
+        "Presented concerns, goals, and achievements of the department to senior management during meetings.",
         "Managed class schedules of both faculty members and students.",
-        "Resolved various concerns of faculty members such as classroom management, courseware usage, and grading.",
+        "Resolved concerns of faculty members such as classroom management, courseware usage, and grading.",
         "Prepared activity proposals, budget requests, and liquidation of department events.",
         "Participated in student engagement such as enrollment and orientation.",
         "Collaborated with the Admission Office during student acquisition activities.",
         "Mediated escalation of student concerns with the Guidance Office.",
-        "Coordinated with the MIS department to recommend, procure, and configure hardware and software for each degree program.",
+        "Coordinated with the MIS department to recommend, procure, and configure hardware and software.",
         "Assessed acceptability of BSIT and BSCS capstone projects during thesis defense.",
-        "Disclosed vulnerabilities regarding information systems using TTP framework.",
+        "Identified and disclosed vulnerabilities regarding information systems using TTP framework.",
         "Automated tasks such as generation of exam attendance sheet.",
         "Created informative faculty guides and supplementary student learning materials.",
         "Attended networking opportunities within STI and externally with partner organizations.",
@@ -47,7 +48,7 @@
       "url": "https://personiv.com/",
       "startDate": "2016-06-19",
       "endDate": "2019-02-19",
-      "summary": "Designing beautiful, responsive websites using the latest technologies to transform a copy into a fully-functioning website in less than 3 days.",
+      "summary": "Created professional websites while consistently meeting production requirements.",
       "highlights": [
         "Built new and modified existing websites using Duda, Thryv.",
         "Maintained SLA of 4 hours for new website builds, and 1 hour for modifications.",
@@ -55,8 +56,8 @@
         "Used Adobe Photoshop and Illustrator to create or revise website assets.",
         "Audited SEO and website performance using Google Lighthouse.",
         "Tracked website status in Google Sheets, SalesForce, and Atlassian JIRA.",
-        "Went to Personiv Gurugram in India as part of two-man specialist team tasked to oversee usage of new design tool.",
-        "Participated in employee welfare activities such as mural painting, bay design and prop making, "
+        "Participated in employee welfare activities such as mural painting, bay design and prop making.",
+        "Went to Personiv Gurugram in India as part of two-man specialist team tasked to oversee usage of new design tool."
       ]
     }
   ],
@@ -91,7 +92,7 @@
   ],
   "certificates": [
     {
-      "name": "Ethical Hacking Essentials (EHE)",
+      "name": "Certified Ethical Hacking Essentials (EHE)",
       "date": "2025-10",
       "issuer": "EC-Council",
       "url": "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=VKZMFPVqKPACvIZqMAjVqCB/daQiAk6ojsMLjwRESOg=",
@@ -102,7 +103,7 @@
       "date": "2025-09",
       "issuer": "Huawei",
       "url": "/assets/pdf/huawei_hcia security.pdf",
-      "icon": "fa-solid fa-lock"
+      "icon": "fa-solid fa-shield"
     },
     {
       "name": "Vulnerability Management",
@@ -123,14 +124,14 @@
       "date": "2025-05",
       "issuer": "Cisco",
       "url": "https://www.credly.com/badges/dd7b5d56-8065-451e-a195-1f99865b95a5",
-      "icon": "fa-solid fa-lock"
+      "icon": "fa-solid fa-shield"
     },
     {
       "name": "Certified in Cybersecurity (CC)",
       "date": "2024-04",
       "issuer": "ISC2",
       "url": "https://www.credly.com/badges/36252a8a-bcfa-48d4-ada1-1f30fa860a02/public_url",
-      "icon": "fa-solid fa-lock"
+      "icon": "fa-solid fa-shield"
     },
     {
       "name": "Google Cloud Digital Leader Training Specialization",
@@ -170,69 +171,57 @@
   ],
   "skills": [
     {
-      "name": "Ethical Hacking",
-      "icon": "fa-solid fa-user-secret",
+      "name": "Digital Forensics and Incident Response (DFIR)",
+      "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
-        "Nmap",
-        "OWASP ZAP",
-        "Wireshark",
-        "Burp Suite",
-        "Metasploit"
+        "Network Forensics: Packet-level traffic analysis using Wireshark.",
+        "Malware Analysis: Reverse engineering malware with OllyDbg and ILSpy.",
+        "Incident Management: Coordinating threat response using ICS-100 and Cyber Kill Chain."
       ]
     },
     {
-      "name": "Applications Programming",
-      "icon": "fa-solid fa-code",
+      "name": "Vulnerability Assessment and Penetration Testing (VAPT)",
+      "icon": "fa-solid fa-bug",
       "keywords": [
-        "C# / ASP.NET",
-        "Xamarin / .NET MAUI",
-        "Java / Android",
-        "SQL",
-        "Firebase"
+        "Reconnaissance: Discovery and enumeration using Nmap, Shodan, and OSINT tools.",
+        "Exploitation: Validating vulnerabilities with Burp Suite and Metasploit.",
+        "Documentation: Authoring technical reports using TTP mapped to MITRE ATT&CK."
       ]
     },
     {
-      "name": "Reverse Engineering",
-      "icon": "fa-solid fa-unlock",
+      "name": "Security Operations (SecOps)",
+      "icon": "fa-solid fa-shield",
       "keywords": [
-        "RadASM",
-        "OllyDbg",
-        "ILSpy"
+        "Detection: Managing Wazuh SIEM/XDR for endpoint monitoring.",
+        "Triage: Analyzing threats in sandboxed Windows/Ubuntu environments.",
+        "Resilience: Updating SOAR playbooks and coordinating recovery procedures."
       ]
     },
     {
-      "name": "Operating Systems",
-      "icon": "fa-solid fa-desktop",
-      "keywords": [
-        "Windows",
-        "Ubuntu",
-        "VirtualBox / Virtualization"
-      ]
-    },
-    {
-      "name": "System Analysis and Design",
+      "name": "Infrastructure Security and Engineering",
       "icon": "fa-solid fa-sitemap",
       "keywords": [
-        "Requirements Analysis",
-        "Modeling / UML",
-        "Project Management"
+        "Secure Development: Building applications in Java and C# following SDLC and security practices.",
+        "Systems Design: Requirements analysis, tracking, and modeling using UML.",
+        "Data Protection: Applying fundamental cryptography and infrastructure hardening."
       ]
     },
     {
-      "name": "Leadership",
+      "name": "Strategic Leadership",
       "icon": "fa-solid fa-handshake",
       "keywords": [
-        "Empathy",
-        "Open Communication",
-        "Cross-department Collaboration"
+        "Result-Oriented: Led 20 faculty members to deliver ICT curricula to over 1000 students.",
+        "Stakeholder Management: Effectively communicated needs between customers (students, parents) and operations (instructors, administrators).",
+        "Governance, Risk, and Compliance (GRC): Familiarity with NIST, ISO 27001, and GDPR."
       ]
     },
     {
-      "name": "Teaching",
+      "name": "Security Education",
       "icon": "fa-solid fa-graduation-cap",
       "keywords": [
-        "Effective Classroom Management",
-        "Proficiency in Microsoft Excel"
+        "Security Awareness: Promoted departmental cyber-hygiene and company-wide safety initiatives.",
+        "Certification Mentorship: Coached 3 students to pass their Ethical Hacking Essentials (EHE) Certification exam.",
+        "Technical Instruction: Taught cybersecurity across multi-disciplinary degree programs: BSIT, BSCS, BSCPE, and BSAIS."
       ]
     }
   ],
