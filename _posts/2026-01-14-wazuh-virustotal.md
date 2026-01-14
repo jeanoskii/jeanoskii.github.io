@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'I downloaded malware! Now what?'
-date: 2026-01-08 21:00:00
+date: 2026-01-14 14:30:00
 description:  Enabling active detection and response capabilities in Wazuh with VirusTotal
 tags: wazuh virustotal malware xdr edr
 categories: cybersecurity software
@@ -58,10 +58,10 @@ Depending on the operating system, the `ossec.conf` file can be found in `C:\Pro
         {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-osseconf-ubuntu.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/posts/2026-01-08/wazuh-localrules.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-localrules.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/posts/2026-01-08/wazuh-removethreat-windows.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-removethreat-windows.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
