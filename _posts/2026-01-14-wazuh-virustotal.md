@@ -21,6 +21,7 @@ In my <a href="/wazuh-install">previous</a> blog post, I alluded to Wazuh being 
 But what's <a href="https://www.virustotal.com/">VirusTotal</a>? It is a free online service that analyzes files, URLs, IP addresses, and domains for malware. VirusTotal works with antivirus scanners and URL/domain blocklisting services to intelligently inspect anything you upload to its web interface. In addition, when a user scans an object, the results are aggregated in a global repository, thereby making a contribution to worldwide cybersecurity efforts. This is an extremely useful tool for any cybersecurity professional!
 
 Now that you know how important VirusTotal is, let's get to configuring it! But let us recall first our infrastructure:
+
 ```mermaid
 flowchart LR
     subgraph "Windows Desktop"
