@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'I downloaded malware! Now what?'
-date: 2026-01-13 16:30:00
+date: 2026-01-14 14:30:00
 description: Enabling active detection and response capabilities in Wazuh with VirusTotal
 tags: wazuh virustotal malware xdr edr
 categories: cybersecurity software
+thumbnail: assets/img/posts/2026-01-08/Wazuh-Logo.png
 mermaid:
   enabled: true
   zoomable: true
