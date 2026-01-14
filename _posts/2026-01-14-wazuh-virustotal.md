@@ -67,7 +67,7 @@ Depending on the operating system, the `ossec.conf` file can be found in `C:\Pro
 
 We must also be familiar with the software we will be using, primarily, the use terminal and Powershell commands. I exclusively used the command-line interface to set up the VirusTotal integration, except for in Windows where I had to open Notepad to edit text files and and install Python using the installer GUI.
 
-After becoming familiar with the files and tools needed, we can proceed to follow the guide. I first set up the endpoints, both Ubuntu and Windows. Afterwards, I configured the Wazuh server on the Ubuntu VM. Then, I downloaded an EICAR file on both agents. What's an EICAR file you ask? An EICAR file is used to test the detection capability of an antivirus software. Once I downloaded the EICAR files, hits began showing up on the dashboard.
+After becoming familiar with the files and tools needed, we can proceed to follow the guide. I first set up the endpoints, both Ubuntu and Windows. Afterwards, I configured the Wazuh server on the Ubuntu VM. Then, I downloaded an EICAR file on both agents. What's an <a href="https://www.eicar.org/download-anti-malware-testfile/">EICAR file</a> you ask? An EICAR file is used to test the detection capability of an antivirus software. Once I downloaded the EICAR files, hits began showing up on the dashboard.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
