@@ -2,7 +2,7 @@
 layout: post
 title: Watch me on Youtube
 date: 2026-01-11 21:01:00
-description: 'I made explainers and how-tos reverse engineering, cyber ethics, and others.'
+description: 'I made explainers and how-tos on reverse engineering, cyber ethics, and others.'
 tags: database ethics reverse-engineering operating-systems
 categories: retrospective
 ---
