@@ -46,6 +46,7 @@ flowchart LR
 As you can see, we have two physical machines running Windows, and two Ubuntu virtual machines. Our Wazuh server is installed in one of the Ubuntu VMs, while the rest have Wazuh agents (a.k.a. endpoints).
 
 I followed Wazuh's <a href="https://documentation.wazuh.com/current/proof-of-concept-guide/detect-remove-malware-virustotal.html">Proof of Concept guide</a> for detecting and removing malware using VirusTotal integration. In this guide, three files will be referenced multiple times:
+
 - ossec.conf
 - local_rules.xml
 - remove-threat.sh / remove-threat.exe
