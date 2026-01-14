@@ -11,7 +11,7 @@ mermaid:
   zoomable: true
 ---
 
-In my <a href="/wazuh-install">previous</a> blog post, I alluded to Wazuh being both a SIEM and an XDR. I specifically mentioned that VirusTotal can be integrated into Wazuh for file integrity monitoring. Today, we'll be discussing how I enabled VirusTotal integration in Wazuh.
+In my <a href="/blog/2026/wazuh-install">previous</a> blog post, I alluded to Wazuh being both a SIEM and an XDR. I specifically mentioned that VirusTotal can be integrated into Wazuh for file integrity monitoring. Today, we'll be discussing how I enabled VirusTotal integration in Wazuh.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
