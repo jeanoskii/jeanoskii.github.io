@@ -57,10 +57,10 @@ Depending on the operating system, the `ossec.conf` file can be found in `C:\Pro
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-osseconf-ubuntu.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-localrules.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-localrules.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-osseconf-windows.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-removethreat-windows.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -73,7 +73,7 @@ After becoming familiar with the files and tools needed, we can proceed to follo
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-virustotal-hit.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/posts/2026-01-14/wazuh-virustotal-hit.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

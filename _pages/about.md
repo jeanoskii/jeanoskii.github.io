@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="tel:0926 742 4154">0926 742 4154</a> | <a href="mailto:jeano.ermitano@live.com">jeano.ermitano@live.com</a>
+subtitle: <a href="mailto:jeano.ermitano@live.com">jeano.ermitano@live.com</a>
   
 
 profile:
