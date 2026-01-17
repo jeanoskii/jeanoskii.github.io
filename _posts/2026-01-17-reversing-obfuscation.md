@@ -147,13 +147,13 @@ The `APP` string is:
 /-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-/%/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:5/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:7/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-://-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-/%/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-://-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-/%/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:5/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:7/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-://-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:7/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:5/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:7/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:1/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:7/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:0/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:7/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-://-/%/-:?/-/-/-/-/-/-/-:0
 ```
 
-After we replace the characters, we get:
+After we replace the characters `?, %, :, -, /` with `4, f, 3, d, 2`, we get:
 
 ```
 2d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d2f2d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d352d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d372d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d322d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d2f2d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d322d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d2f2d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d352d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d372d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d322d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d372d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d352d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d372d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d312d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d372d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d302d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d372d2d2d322d2f2d342d2d2d322d2f2d342d2d2d322d2f2d342d2d2d2d2d2d2d30
 ```
 
-We still don't understand it, but that's okay. We are going to feed this text to the `decode` function as described below:
+We still can't understand it, but that's okay. We are going to feed this text to the `decode` function as described below:
 
 ```
 public static final String decode(String s) {
@@ -200,12 +200,12 @@ Now we can read it easier. First, the string `s` is assigned to string `s2`, whi
 
 Applying this logic to our current value for `s` we get:
 
-#### Convert the hexadecimal string to decimal
+##### Convert the hexadecimal string to decimal
 ```
 4545455045474552454545504547455245454550454745524545454545454552454545504547455245454550454745524545455045474552454545504547455245454550454745524545455045474552454545504547455245454550454745474545455045474552454545504547455245454550454745524545454545454553454545504547455245454550454745524545455045474552454545454545455545454550454745524545455045474552454545504547455245454545454545504545455045474552454545504547455245454550454745524545455045474547454545504547455245454550454745524545455045474552454545454545455045454550454745524545455045474552454545504547455245454550454745474545455045474552454545504547455245454550454745524545454545454553454545504547455245454550454745524545455045474552454545454545455545454550454745524545455045474552454545504547455245454545454545504545455045474552454545504547455245454550454745524545454545454555454545504547455245454550454745524545455045474552454545454545455345454550454745524545455045474552454545504547455245454545454545554545455045474552454545504547455245454550454745524545455045474552454545504547455245454550454745524545455045474552454545454545455245454550454745524545455045474552454545504547455245454545454545494545455045474552454545504547455245454550454745524545454545454555454545504547455245454550454745524545455045474552454545454545454845454550454745524545455045474552454545504547455245454545454545554545455045474552454545504547455245454550454745524545454545454548
 ```
 
-#### Convert the decimal to its ASCII equivalent
+##### Convert the decimal to its ASCII equivalent
 
 ```
 ---2-/-4---2-/-4---2-/-4-------4---2-/-4---2-/-4---2-/-4---2-/-4---2-/-4---2-/-4---2-/-4---2-/-/---2-/-4---2-/-4---2-/-4-------5---2-/-4---2-/-4---2-/-4-------7---2-/-4---2-/-4---2-/-4-------2---2-/-4---2-/-4---2-/-4---2-/-/---2-/-4---2-/-4---2-/-4-------2---2-/-4---2-/-4---2-/-4---2-/-/---2-/-4---2-/-4---2-/-4-------5---2-/-4---2-/-4---2-/-4-------7---2-/-4---2-/-4---2-/-4-------2---2-/-4---2-/-4---2-/-4-------7---2-/-4---2-/-4---2-/-4-------5---2-/-4---2-/-4---2-/-4-------7---2-/-4---2-/-4---2-/-4---2-/-4---2-/-4---2-/-4---2-/-4-------4---2-/-4---2-/-4---2-/-4-------1---2-/-4---2-/-4---2-/-4-------7---2-/-4---2-/-4---2-/-4-------0---2-/-4---2-/-4---2-/-4-------7---2-/-4---2-/-4---2-/-4-------0
@@ -283,13 +283,13 @@ decode(
 
 The next two `decode` functions are executed one after the other, where the output of the former is the input to the latter. No character replace here. So let's just take our current value and put it to the `decode` function **twice**. Thus, we have:
 
-#### First iteration of `decode`
+##### First iteration of `decode`
 
 ```
 2d2d2d342d2d2d2d2d2d2d2f2d2d2d352d2d2d372d2d2d322d2d2d2f2d2d2d322d2d2d2f2d2d2d352d2d2d372d2d2d322d2d2d372d2d2d352d2d2d372d2d2d2d2d2d2d342d2d2d312d2d2d372d2d2d302d2d2d372d2d2d30
 ```
 
-#### Second iteration of `decode`
+##### Second iteration of `decode`
 
 ```
 ---4-------/---5---7---2---/---2---/---5---7---2---7---5---7-------4---1---7---0---7---0
@@ -331,19 +331,19 @@ Now we have to replace `-, /` with `3, 6` again:
 
 Then, run this string through our `decode` function thrice (again, hex → decimal → ASCII):
 
-#### First iteration of `decode`
+##### First iteration of `decode`
 
 ```
 34333635373236323635373237353733343137303730
 ```
 
-#### Second iteration of `decode`
+##### Second iteration of `decode`
 
 ```
 4365726265727573417070
 ```
 
-#### Final iteration of `decode`
+##### Final iteration of `decode`
 
 ```
 CerberusApp
@@ -377,13 +377,10 @@ Voila! We have our decoded `APP` string. We've gone over every step in the `rev3
 -);
 ```
 
-One after the after, we went over each function call, taking note the input and the output. And as you can notice, we removed all the unnecessary stuff from being examined. This is because the first step is establishing the objectives. With a clear goal, we were able to narrow down the specific, lucrative parts of the code to analyze—we didn't even look into the `rev3854` function! What we essentially did was reverse engineering! With the knowledge of the algorithm, I wrote a JSFiddle:
-
-<script async src="//jsfiddle.net/tumyda3q/embed/js,result/"></script>
+One after the after, we went over each function call, taking note the input and the output. And as you can notice, we removed all the unnecessary stuff from being examined. This is because the first step is establishing the objectives. With a clear goal, we were able to narrow down the specific, lucrative parts of the code to analyze—we didn't even look into the `rev3854` function! What we essentially did was reverse engineering! With the knowledge of the algorithm, I wrote a JSFiddle the at bottom of this article (try to find out the decoded string for `DEV` and `PACKAGE`).
 
 So I sent the results to my friend, and I beat his challenge. We both won in the end though: I sharpened my skills in static analysis, and he gets back his source code. Win-win!
 
 These kinds of challenges are popular on the internet: crack.me, hack.me, keygen.me, etc. We might do another one in the future!
 
-
-
+<script async src="//jsfiddle.net/tumyda3q/embed/js,result/"></script>
