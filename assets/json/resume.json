@@ -96,6 +96,13 @@
   ],
   "certificates": [
     {
+      "name": "Introduction to Penetration Testing",
+      "date": "2026-01",
+      "issuer": "Security Blue Team",
+      "url": "https://jeanoskii.github.io/assets/pdf/secblue_intro-to-pentest.pdf",
+      "icon": "fa-solid fa-user-secret"
+    },
+    {
       "name": "Certified Ethical Hacking Essentials (EHE)",
       "date": "2025-10",
       "issuer": "EC-Council",
