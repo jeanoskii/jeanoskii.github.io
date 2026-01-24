@@ -102,14 +102,14 @@
       "date": "2025-06",
       "issuer": "Qualys",
       "url": "https://jeanoskii.github.io/assets/pdf/qualys_vulnerability-management.pdf",
-      "icon": "fa-solid fa-bug"
+      "icon": "fa-solid fa-magnifying-glass"
     },
     {
       "name": "Introduction to Incident Command System, ICS-100",
       "date": "2025-06",
       "issuer": "FEMA",
       "url": "https://jeanoskii.github.io/assets/pdf/fema_incident-command-system.pdf",
-      "icon": "fa-solid fa-bug"
+      "icon": "fa-solid fa-magnifying-glass"
     },
     {
       "name": "Introduction to Cybersecurity",
@@ -158,62 +158,43 @@
       "date": "2019-10-17",
       "issuer": "UnionBank",
       "url": "https://jeanoskii.github.io/assets/pdf/blockchain_uhack_certificate.pdf",
-      "icon": "fa-solid fa-link"
+      "icon": "fa-solid fa-code"
     }
   ],
   "skills": [
     {
-      "name": "Digital Forensics and Incident Response (DFIR)",
-      "icon": "fa-solid fa-magnifying-glass",
+      "name": "Offensive Security",
+      "icon": "fa-solid fa-user-secret",
       "keywords": [
-        "Network Forensics: Packet-level traffic analysis using Wireshark.",
-        "Malware Analysis: Reverse engineering malware with OllyDbg and ILSpy.",
-        "Incident Management: Coordinating threat response using ICS-100 and Cyber Kill Chain."
+        "Vulnerability research and disclosure with OSINT, Nmap, Burp Suite, MITRE ATT&CK"
       ]
     },
     {
-      "name": "Vulnerability Assessment and Penetration Testing (VAPT)",
-      "icon": "fa-solid fa-bug",
-      "keywords": [
-        "Reconnaissance: Discovery and enumeration using Nmap, Shodan, and OSINT tools.",
-        "Exploitation: Validating vulnerabilities with Burp Suite and Metasploit.",
-        "Documentation: Authoring technical reports using TTP mapped to MITRE ATT&CK."
-      ]
-    },
-    {
-      "name": "Security Operations (SecOps)",
+      "name": "Defensive Security",
       "icon": "fa-solid fa-shield",
       "keywords": [
-        "Detection: Managing Wazuh SIEM/XDR for endpoint monitoring.",
-        "Triage: Analyzing threats in sandboxed Windows/Ubuntu environments.",
-        "Resilience: Updating SOAR playbooks and coordinating recovery procedures."
+        "Endpoint monitoring and active response using Wazuh SIEM/XDR and VirusTotal"
       ]
     },
     {
-      "name": "Infrastructure Security and Engineering",
-      "icon": "fa-solid fa-sitemap",
+      "name": "Digital Forensics",
+      "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
-        "Secure Development: Building applications in Java and C# following SDLC and security practices.",
-        "Systems Design: Requirements analysis, tracking, and modeling using UML.",
-        "Data Protection: Applying fundamental cryptography and infrastructure hardening."
+        "Network analysis (Wireshark), dynamic analysis (OllyDbg), static analysis (ILSpy)"
       ]
     },
     {
-      "name": "Strategic Leadership",
+      "name": "Secure Engineering",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Infrastructure hardening and Java/C# (.NET) development applying OWASP Top 10"
+      ]
+    },
+    {
+      "name": "IT Consultancy",
       "icon": "fa-solid fa-handshake",
       "keywords": [
-        "Result-Oriented: Led 20 faculty members to deliver ICT curricula to over 1000 students.",
-        "Stakeholder Management: Effectively communicated needs between customers (students, parents) and operations (instructors, administrators).",
-        "Governance, Risk, and Compliance (GRC): Familiarity with NIST, ISO 27001, and GDPR."
-      ]
-    },
-    {
-      "name": "Security Education",
-      "icon": "fa-solid fa-graduation-cap",
-      "keywords": [
-        "Security Awareness: Promoted departmental cyber-hygiene and company-wide safety initiatives.",
-        "Certification Mentorship: Coached 3 students to pass their Ethical Hacking Essentials (EHE) Certification exam.",
-        "Technical Instruction: Taught cybersecurity across multi-disciplinary degree programs: BSIT, BSCS, BSCPE, and BSAIS."
+        "Digital transformation; Change management (migrations); Infrastructure procurement"
       ]
     }
   ],
