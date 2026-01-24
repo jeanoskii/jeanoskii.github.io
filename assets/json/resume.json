@@ -20,7 +20,7 @@
   "work": [
     {
       "name": "STI College Las Piñas",
-      "position": "Assistant Professor/ICT Program Head",
+      "position": "ICT Program Head",
       "url": "https://sti.edu/",
       "startDate": "2019-07-19",
       "endDate": "2025-12-19",
@@ -54,7 +54,7 @@
       "studyType": "Master of Information Systems",
       "startDate": "2016",
       "endDate": "2018",
-      "courses": ["IS 214: Principles of Programming Languages", "CMSC 203: Computer Systems and Organization", "Capstone Project Title: Go Guro Mobile Application Built with Android and Firebase"]
+      "courses": ["IS Strategic Planning", "IT Governance", "Advanced System Design and Development"]
     },
     {
       "institution": "De La Salle-College of Saint Benilde",
@@ -63,16 +63,16 @@
       "studyType": "Bachelor of Science in Information Systems",
       "startDate": "2012",
       "endDate": "2015",
-      "courses": ["SYSANAL/SYSDESI: Systems Analysis and Design", "INFOSEC: Information Security", "Capstone Project Title: Benilde Service Rating System"]
+      "courses": ["System Analysis and Design", "Java/C# (.NET) Development", "Information Security"]
     }
   ],
   "awards": [
     {
-      "title": "GPS Award - Student's Choice Awards",
+      "title": "GPS Award",
       "date": "2025-10-10",
-      "awarder": "STI",
+      "awarder": "STI College Las Piñas",
       "url": "https://www.facebook.com/laspinas.sti.edu/posts/1153897210167486",
-      "summary": "The STI Student's Choice Awards celebrate outstanding educators selected by students for their inspiring passion and impactful teaching. The GPS Award is given to a teacher who is devoted to guiding and mentoring students in achieving their goals."
+      "summary": "Recognized during STI Students’ Choice Awards as a teacher who is devoted to guiding and mentoring students in achieving their goals."
     }
   ],
   "certificates": [
