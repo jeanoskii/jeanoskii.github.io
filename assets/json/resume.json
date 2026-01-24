@@ -193,8 +193,8 @@
     {
       "name": "On-Premise Security Operations Center (SOC)",
       "summary": "Deployed Wazuh SIEM/XDR on 4 endpoints: 2 physical Windows machines; 2 Ubuntu virtual machines. Configured active response with VirusTotal integration.",
+      "highlights": ["In Progress: Automated case management with IOC enrichment by integrating Shuffle SOAR and DFIR-IRIS."],
       "startDate": "2026-01-01",
-      "endDate": "2026-01-24",
       "url": "https://jeanoskii.github.io/blog/2026/wazuh-install/"
     },
     {
@@ -289,6 +289,14 @@
       "summary": "Recognized during STI Students’ Choice Awards as a teacher who is devoted to guiding and mentoring students in achieving their goals."
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Philippine Institute of Cyber Security Professionals",
+      "position": "Member",
+      "url":"https://jeanoskii.github.io/assets/pdf/piscpro_membership.pdf",
+      "startDate": "2025-05-01"
+    }
+  ],
   "references": [
     {
       "name": "Griselda G.",
@@ -297,13 +305,6 @@
     {
       "name": "Sean P.",
       "reference": "Teacher I - Cagayan National High School"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Philippine Institute of Cyber Security Professionals",
-      "position": "Member",
-      "startDate": "2025-05-01"
     }
   ]
 }
