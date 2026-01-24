@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Hello there, potential employer! Thank you for taking the time to view my website. Learn more about me in this page, or download my resume using the &quot;PDF&quot; button. Talk to you soon!",
+          description: "H!! Thank you for taking the time to view my website. Learn more about me in this page, or download my CV using the &quot;PDF&quot; button. Talk to you soon!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
