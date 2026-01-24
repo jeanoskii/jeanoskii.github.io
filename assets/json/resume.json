@@ -191,49 +191,49 @@
   ],
   "projects": [
     {
-      "name": "Ethical Hacking Essentials Certification Exam",
-      "summary": "Mentored 3 BSCPE students to pass their EHE certification exam by EC-Council.",
+      "name": "On-Premise Security Operations Center (SOC)",
+      "summary": "Deployed Wazuh SIEM/XDR on 4 endpoints: 2 physical Windows machines; 2 Ubuntu virtual machines. Configured active response with VirusTotal integration.",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-24",
+      "url": "https://jeanoskii.github.io/blog/2026/wazuh-install/"
+    },
+    {
+      "name": "Cybersecurity Certification Mentorship",
+      "summary": "Delivered ethical hacking curricula to a class of 40 students; successfully prepared and mentored 3 students to pass EC-Council’s Ethical Hacking Essentials exam.",
       "startDate": "2025-12-10",
       "endDate": "2025-12-10",
       "url": "https://www.facebook.com/photo/?fbid=1203746325182574"
     },
     {
-      "name": "Philippine Robotics Cup",
-      "summary": "Inspired 20 BSCPE students to volunteer as ushers and referees for Creotec Philippines Inc. during their event.",
+      "name": "Philippine Robotics Cup Collaboration",
+      "summary": "Directed a cohort of 20 BSCPE students to serve as ushers and referees for Creotec Philippines Inc.",
       "startDate": "2025-10-29",
       "endDate": "2025-10-29",
       "url": "https://www.facebook.com/photo/?fbid=1177760064447867"
     },
     {
-      "name": "XCITE",
-      "summary": "Spearheaded the continuation of XPERIENCE, in collaboration with ICT student organizations, and turned over the implementation plan to them.",
-      "startDate": "2024-05-28",
-      "endDate": "2024-05-29",
-      "url": "https://www.facebook.com/watch/?v=1543881772837337"
+      "name": "XPERIENCE / XCITE",
+      "summary": "Pioneered the first-ever ICT Summit, XPERIENCE, at STI College Las Pi˜nas together with faculties and student volunteers. Sustained momentum to the following semester with XCITE before turning over project implementation plan to student organizations.",
+      "startDate": "2024-01-28",
+      "endDate": "2024-05-28",
+      "url": "https://www.facebook.com/watch/?v=909308904196252"
     },
     {
       "name": "Nationwide 10th Test of Practical Competency in IT (TOPCIT)",
-      "summary": "Participated in the tenth TOPCIT by invitation of Commission on Higher Education, a first for STI College Las Piñas",
+      "summary": "Spearheaded STI College Las Pi˜nas’s participation to the 10th TOPCIT by invitation of Commission on Higher Education, where over 100 BSIT and BSCS students took the test.",
       "startDate": "2024-04-23",
       "endDate": "2024-04-23",
       "url": "https://www.facebook.com/photo/?fbid=784290830461461"
     },
     {
-      "name": "XPERIENCE",
-      "summary": "Pioneered the first-ever ICT Summit at STI College Las Piñas, together with a team of faculties and student volunteers.",
-      "startDate": "2024-01-08",
-      "endDate": "2024-01-10",
-      "url": "https://www.facebook.com/watch/?v=909308904196252"
-    },
-    {
-      "name": "Multimedia Arts Recognition",
-      "summary": "Initiated the institutional membership of STI College Las Piñas in the Animation Council of the Philippines (ACPI), as requirement for CHED recognition of the BMMA program.",
+      "name": "Compliance for Bachelor of Multimedia Arts Program Recognition",
+      "summary": " Initiated the institutional membership of STI College Las Pi˜nas in the Animation Council of the Philippines (ACPI), a requirement of Commission on Higher Education.",
       "startDate": "2020-07-23",
       "endDate": "2025-10-17"
     },
     {
       "name": "Blockchain Xcellerator Experts Program",
-      "summary": "Led a team of 3 ICT faculty members to the final round of U:HACK, a blockchain hackathon hosted by UnionBank.",
+      "summary": "Led a team of 3 professionals to the final round of U:HACK, a hackathon by UnionBank.",
       "highlights": ["Solidity"],
       "startDate": "2019-10-19",
       "endDate": "2019-11-21",
@@ -297,6 +297,13 @@
     {
       "name": "Sean P.",
       "reference": "Teacher I - Cagayan National High School"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Philippine Institute of Cyber Security Professionals",
+      "position": "Member",
+      "startDate": "2025-05-01"
     }
   ]
 }
