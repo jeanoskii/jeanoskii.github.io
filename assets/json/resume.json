@@ -8,13 +8,13 @@
     "name": "Jeano Ermitaño",
     "image": "https://jeanoskii.github.io/assets/img/prof_pic_jeano.jpg",
     "email": "jeano.ermitano@live.com",
-    "phone": "0926 742 4154",
+    "phone": "+63 926 742 4154",
     "url": "https://jeanoskii.github.io/",
-    "summary": "Master of Information Systems and ICT Program Head with over 5 years of experience leading 20 faculty members and 1000+ students, now applying leadership and technical expertise to ensure organizational security.",
+    "summary": "Senior ICT Leader and Master of Information Systems (UPOU). As Program Head, I directed 20+ professionals to drive 70% service adoption of 1,000+ stakeholders. Specialist in consultancy and security awareness training, integrated with a technical practice in penetration testing, SIEM operations, and vulnerability research.",
     "location": {
       "city": "Las Piñas",
       "countryCode": "Philippines",
-      "region": "National Capital Region"
+      "region": "NCR"
     }
   },
   "work": [
@@ -24,26 +24,13 @@
       "url": "https://sti.edu/",
       "startDate": "2019-07-19",
       "endDate": "2025-12-19",
-      "summary": "Managed ICT-related degree programs with a team of 20 faculty members.",
       "highlights": [
-        "Ensured compliance to curriculum of BSIT, BSCS, BSCPE, and BMMA programs.",
-        "Conducted regular department meetings similar to Agile restrospectives.",
-        "Trained faculty members during INSET and onboarding on the use of teacher applications.",
-        "Evaluated faculty member performance through mentoring, giving coaching sessions and appraisals.",
-        "Interviewed candidates for teaching positions and recommended applicants for hiring.",
-        "Presented concerns, goals, and achievements of the department to senior management during meetings.",
-        "Managed class schedules of both faculty members and students.",
-        "Resolved concerns of faculty members such as classroom management, courseware usage, and grading.",
-        "Prepared activity proposals, budget requests, and liquidation of department events.",
-        "Participated in student engagement such as enrollment and orientation.",
-        "Collaborated with the Admission Office during student acquisition activities.",
-        "Mediated escalation of student concerns with the Guidance Office.",
-        "Coordinated with the MIS department to recommend, procure, and configure hardware and software.",
-        "Assessed acceptability of BSIT and BSCS capstone projects during thesis defense.",
-        "Identified and disclosed vulnerabilities regarding information systems using TTP framework.",
-        "Automated tasks such as generation of exam attendance sheet.",
-        "Created informative faculty guides and supplementary student learning materials.",
-        "Attended networking opportunities within STI and externally with partner organizations."
+        "Strategic Leadership: Directed a team of 20+ professionals using Agile mindset; managed the end-to-end talent lifecycle including onboarding, technical training, performance review, and administrative support.",
+        "Operational Excellence: Achieved a 70% increase in service adoption by pioneering client engagement opportunities; maintained growth through optimal resource allocation and process automation.",
+        "Crisis Management: Served as a subject matter expert and consultant for the digital transformation of onsite services to online platforms during the pandemic, ensuring business continuity for 1,000+ stakeholders.",
+        "Security Advocacy: Championed institutional cyber hygiene and security awareness training; provided cybersecurity mentorship resulting in 3 successful EC-Council Ethical Hacking certifications; internally disclose vulnerabilities using TTP mapped to the MITRE ATT&CK framework.",
+        "Compliance: Audited service delivery to ensure compliance with curriculum and operational expectations served as technical panel during BSIT and BSCS capstone presentation to ensure project integrity.",
+        "Cross-Functional Collaboration: Worked with Admissions department for client acquisition activities; resolved high-level escalations from Registrar and Guidance offices; served as technical consultant on infrastructure for the MIS department; coordinated partnerships with both student and professional organizations."
       ]
     },
     {
@@ -52,16 +39,10 @@
       "url": "https://personiv.com/",
       "startDate": "2016-06-19",
       "endDate": "2019-02-19",
-      "summary": "Created professional websites while consistently meeting production requirements.",
       "highlights": [
-        "Built new and modified existing websites using Duda, Thryv.",
-        "Maintained SLA of 4 hours for new website builds, and 1 hour for modifications.",
-        "Migrated legacy websites to the currently supported platform.",
-        "Used Adobe Photoshop and Illustrator to create or revise website assets.",
-        "Audited SEO and website performance using Google Lighthouse.",
-        "Tracked website status in Google Sheets, SalesForce, and Atlassian JIRA.",
-        "Participated in employee welfare activities such as mural painting, bay design and prop making.",
-        "Went to Personiv Gurugram in India as part of two-man specialist team tasked to oversee usage of new design tool."
+        "Global Change Management: Served as a subject matter expert in Gurugram, India to manage web designer expectations during migration to a new design tool, while assisting in Level 2 escalations from America.",
+        "Operational Excellence: Exceeded SLA by producing new website builds in under 4 hours, website re-design in under 3 hours, and website modifications in under 1 hour.",
+        "Compliance: Audited SEO and website performance using Google Lighthouse; Conducted regional research to localize web assets, ensuring environmental and cultural relevance of website design."
       ]
     }
   ],
