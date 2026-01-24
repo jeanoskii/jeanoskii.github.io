@@ -17,6 +17,43 @@
       "region": "NCR"
     }
   },
+  "skills": [
+    {
+      "name": "Offensive Security",
+      "icon": "fa-solid fa-user-secret",
+      "keywords": [
+        "Vulnerability research and disclosure with OSINT, Nmap, Burp Suite, MITRE ATT&CK"
+      ]
+    },
+    {
+      "name": "Defensive Security",
+      "icon": "fa-solid fa-shield",
+      "keywords": [
+        "Endpoint monitoring and active response using Wazuh SIEM/XDR and VirusTotal"
+      ]
+    },
+    {
+      "name": "Digital Forensics",
+      "icon": "fa-solid fa-magnifying-glass",
+      "keywords": [
+        "Network analysis (Wireshark), dynamic analysis (OllyDbg), static analysis (ILSpy)"
+      ]
+    },
+    {
+      "name": "Secure Engineering",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Infrastructure hardening and Java/C# (.NET) development applying OWASP Top 10"
+      ]
+    },
+    {
+      "name": "IT Consultancy",
+      "icon": "fa-solid fa-handshake",
+      "keywords": [
+        "Digital transformation; Change management (migrations); Infrastructure procurement"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "STI College Las Piñas",
@@ -66,15 +103,6 @@
       "courses": ["System Analysis and Design", "Java/C# (.NET) Development", "Information Security"]
     }
   ],
-  "awards": [
-    {
-      "title": "GPS Award",
-      "date": "2025-10-10",
-      "awarder": "STI College Las Piñas",
-      "url": "https://www.facebook.com/laspinas.sti.edu/posts/1153897210167486",
-      "summary": "Recognized during STI Students’ Choice Awards as a teacher who is devoted to guiding and mentoring students in achieving their goals."
-    }
-  ],
   "certificates": [
     {
       "name": "Introduction to Penetration Testing",
@@ -84,7 +112,7 @@
       "icon": "fa-solid fa-user-secret"
     },
     {
-      "name": "Certified Ethical Hacking Essentials (EHE)",
+      "name": "Ethical Hacking Essentials (EHE)",
       "date": "2025-10",
       "issuer": "EC-Council",
       "url": "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=VKZMFPVqKPACvIZqMAjVqCB/daQiAk6ojsMLjwRESOg=",
@@ -159,53 +187,6 @@
       "issuer": "UnionBank",
       "url": "https://jeanoskii.github.io/assets/pdf/blockchain_uhack_certificate.pdf",
       "icon": "fa-solid fa-code"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Offensive Security",
-      "icon": "fa-solid fa-user-secret",
-      "keywords": [
-        "Vulnerability research and disclosure with OSINT, Nmap, Burp Suite, MITRE ATT&CK"
-      ]
-    },
-    {
-      "name": "Defensive Security",
-      "icon": "fa-solid fa-shield",
-      "keywords": [
-        "Endpoint monitoring and active response using Wazuh SIEM/XDR and VirusTotal"
-      ]
-    },
-    {
-      "name": "Digital Forensics",
-      "icon": "fa-solid fa-magnifying-glass",
-      "keywords": [
-        "Network analysis (Wireshark), dynamic analysis (OllyDbg), static analysis (ILSpy)"
-      ]
-    },
-    {
-      "name": "Secure Engineering",
-      "icon": "fa-solid fa-code",
-      "keywords": [
-        "Infrastructure hardening and Java/C# (.NET) development applying OWASP Top 10"
-      ]
-    },
-    {
-      "name": "IT Consultancy",
-      "icon": "fa-solid fa-handshake",
-      "keywords": [
-        "Digital transformation; Change management (migrations); Infrastructure procurement"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Griselda G.",
-      "reference": "Academic Head - STI College Las Piñas"
-    },
-    {
-      "name": "Sean P.",
-      "reference": "Teacher I - Cagayan National High School"
     }
   ],
   "projects": [
@@ -297,6 +278,25 @@
       "startDate": "2014-06-06",
       "endDate": "2014-06-08",
       "url": "https://github.com/jeanoskii/CaptainEarth-Enviro/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "GPS Award",
+      "date": "2025-10-10",
+      "awarder": "STI College Las Piñas",
+      "url": "https://www.facebook.com/laspinas.sti.edu/posts/1153897210167486",
+      "summary": "Recognized during STI Students’ Choice Awards as a teacher who is devoted to guiding and mentoring students in achieving their goals."
+    }
+  ],
+  "references": [
+    {
+      "name": "Griselda G.",
+      "reference": "Academic Head - STI College Las Piñas"
+    },
+    {
+      "name": "Sean P.",
+      "reference": "Teacher I - Cagayan National High School"
     }
   ]
 }
