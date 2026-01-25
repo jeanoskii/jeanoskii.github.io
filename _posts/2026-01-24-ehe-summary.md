@@ -109,4 +109,11 @@ All attacks above were monitored using Wireshark. Therefore, we have an idea wha
 
 **9 out of 10—could be a 10 without HOIC.**
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/confused.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 So far, I am quite satisfied with the first six modules. Stay tuned for Part 2, where I continue with Modules 07 to 12, plus the capstone project.
