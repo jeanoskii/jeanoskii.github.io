@@ -51,6 +51,14 @@ The lab instructed the use of GUI-based remote access tools and virus makers. Th
 
 **5.5 out of 10—just for Greenbone.**
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/edp-i-mean-its-all-right.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
 ### Module 04: Password Cracking Techniques and Countermeasures
 
 I love this module. I have fundamental understanding of algorithms used in password hashing, so I was excited to dive into cracking passwords.
