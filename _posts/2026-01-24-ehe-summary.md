@@ -25,6 +25,8 @@ This module discussed the following: PCI-DSS, ISO/IEC 27001, HIPAA, SOX, DMCA, F
     </div>
 </div>
 
+
+
 ### Module 02: Ethical Hacking Fundamentals
 
 Get inside the mind of a hacker. In this module, the cyber kill chain methodology was covered, along the types and components of malware, and an introduction to a few hacking tools. This is where the real hacking began.
@@ -32,6 +34,14 @@ Get inside the mind of a hacker. In this module, the cyber kill chain methodolog
 The lab consisted of conducting passive footprinting using Web Data Extractor and Whois lookup; network scans using traceroute, Nmap, Unicornscan, and MegaPing; and NETBIOS enumeration using Nbtstat.
 
 **5 out of 10—too shallow for me, but it's a starter.**
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/tc.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 ### Module 03: Information Security Threats and Vulnerability Assessment
 
