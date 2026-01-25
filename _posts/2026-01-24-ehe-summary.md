@@ -15,11 +15,11 @@ I will break this review into two parts. Let's start!
 
 ### Module 01: Information Security Fundamentals
 
-This module discussed the following: PCI-DSS, ISO/IEC 27001, HIPAA, SOX, DMCA, FISMA, GDPR, DPA—in other words—**GRC**. Governance, Risk, and Compliance is an area of information security that ensures a company doesn't get sued. Any IT professional getting into cybersecurity should be familiar with these acronyms because they govern what can and what can't be done. After all, if you're going into ethical hacking, you don't want to land in jail.
+This module discussed the following: PCI-DSS, ISO/IEC 27001, HIPAA, SOX, DMCA, FISMA, GDPR, DPA—in other words—**GRC**. <a href="https://www.ibm.com/think/topics/grc">Governance, Risk, and Compliance</a> is an area of information security that ensures a company doesn't get sued. Any IT professional getting into cybersecurity should be familiar with these acronyms because they govern what can and what can't be done. After all, if you're going into ethical hacking, you don't want to land in jail.
 
 **6 out of 10—because no one wants to go to jail.**
 
-<div class="row mt-3 mb-5">
+<div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/harvey-specter-suits.gif" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -29,13 +29,13 @@ This module discussed the following: PCI-DSS, ISO/IEC 27001, HIPAA, SOX, DMCA, F
 
 ### Module 02: Ethical Hacking Fundamentals
 
-Get inside the mind of a hacker. In this module, the cyber kill chain methodology was covered, along the types and components of malware, and an introduction to a few hacking tools. This is where the real hacking began.
+Get inside the mind of a hacker. In this module, the <a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">cyber kill chain</a> methodology was covered, along the types and components of malware, and an introduction to a few hacking tools. This is where the real hacking began.
 
 The lab consisted of conducting passive footprinting using Web Data Extractor and Whois lookup; network scans using traceroute, Nmap, Unicornscan, and MegaPing; and NETBIOS enumeration using Nbtstat.
 
 **5 out of 10—too shallow for me, but it's a starter.**
 
-<div class="row mt-3 mb-5">
+<div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/tc.gif" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -51,7 +51,7 @@ The lab instructed the use of GUI-based remote access tools and virus makers. Th
 
 **5.5 out of 10—just for Greenbone.**
 
-<div class="row mt-3 mb-5">
+<div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/edp-i-mean-its-all-right.gif" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -69,7 +69,7 @@ Because there are multiple layers on this attack, we need to also secure those v
 
 **10 out of 10—that feeling of cracking a password is surreal.**
 
-<div class="row mt-3 mb-5">
+<div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/hacker-pc.gif" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -85,7 +85,7 @@ Email phishing could be minimized with security awareness training and regular a
 
 **2 out of 10—cyber hygiene: it's everyone's responsibility.**
 
-<div class="row mt-3 mb-5">
+<div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/reviewbrah-thereportoftheweek.gif" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -109,7 +109,7 @@ All attacks above were monitored using Wireshark. Therefore, we have an idea wha
 
 **9 out of 10—could be a 10 without HOIC.**
 
-<div class="row mt-3 mb-5">
+<div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/confused.gif" class="img-fluid rounded z-depth-1" %}
     </div>
