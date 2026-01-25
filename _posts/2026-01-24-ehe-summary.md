@@ -19,8 +19,8 @@ This module discussed the following: PCI-DSS, ISO/IEC 27001, HIPAA, SOX, DMCA, F
 
 **6 out of 10—because no one wants to go to jail.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 md-12">
+<div class="row mt-3 mb-5">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/harvey-specter-suits.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -35,8 +35,8 @@ The lab consisted of conducting passive footprinting using Web Data Extractor an
 
 **5 out of 10—too shallow for me, but it's a starter.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 md-12">
+<div class="row mt-3 mb-5">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/tc.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -51,8 +51,8 @@ The lab instructed the use of GUI-based remote access tools and virus makers. Th
 
 **5.5 out of 10—just for Greenbone.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 md-12">
+<div class="row mt-3 mb-5">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/edp-i-mean-its-all-right.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -69,8 +69,8 @@ Because there are multiple layers on this attack, we need to also secure those v
 
 **10 out of 10—that feeling of cracking a password is surreal.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 md-12">
+<div class="row mt-3 mb-5">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/hacker-pc.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -85,8 +85,8 @@ Email phishing could be minimized with security awareness training and regular a
 
 **2 out of 10—cyber hygiene: it's everyone's responsibility.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 md-12">
+<div class="row mt-3 mb-5">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/reviewbrah-thereportoftheweek.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -109,8 +109,8 @@ All attacks above were monitored using Wireshark. Therefore, we have an idea wha
 
 **9 out of 10—could be a 10 without HOIC.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 md-12">
+<div class="row mt-3 mb-5">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/confused.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
