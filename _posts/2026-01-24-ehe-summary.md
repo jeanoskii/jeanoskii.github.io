@@ -9,7 +9,7 @@ categories: ethical-hacking review
 
 Ahhhh, EC-Council: providers of the (<a href="https://www.reddit.com/r/cybersecurity/comments/1m4lkhr/is_ceh_with_practical_worth_it_for_someone_with/">in</a>)famous Certified Ethical Hacker (CEH). Today, we are going to explore their other offerings. Ethical Hacking Essentials, or EHE, is an introductory course aimed at beginner red team professionals. For those who want to break stuff and write a report about how you broke it and how to fix it, this is for you!
 
-There are a total of 12 modules in the course, and a final capstone project to test your skills. I'll be reviewing each module: what I learned, what I did, and what I realized. I will also be rating them on a 10-point scale, the meaning of which is 10 I enjoyed, and 1 I slept on. I will also be putting a picture of roughly my reactions or feelings to each module.
+There are a total of 12 modules in the course, and a final capstone project to test your skills. I'll be reviewing each module: what I learned in the course, what I did to attack, and what I realized in order to mitigate. I will also be rating them on a 10-point scale, the meaning of which is 10 I enjoyed, and 1 I slept on. I will also be putting a picture of roughly my reactions or feelings to each module.
 
 I will break this review into two parts. Let's start!
 
@@ -63,11 +63,19 @@ The lab instructed the use of GUI-based remote access tools and virus makers. Th
 
 I love this module. I have fundamental understanding of algorithms used in password hashing, so I was excited to dive into cracking passwords.
 
-Compared to Module 02, where we used passive tools, this module used active attack tools. Before we get "cracking", we need to capture hashes first. We used **Responder**, an LLMNR, NBT-NS, MDNS poisoner. This was used to listen to file share communications over the SMB protocol by spoofing as a legitimate name resolver. Once our victim machine tried to retrieve a file share, it connected to the "totally legitimate" name resolver. Thus, Responder was able to listen and capture NTLMv2-SSP hashes, along with its IP Address and username. Now that we have the hash, we cracked it using **John the Ripper** with a wordlist. After a few minutes, John was able to find a plaintext password matching the hash of the victim. Since we have the IP address, username, and password at hand, we can now connect to the file share as the victim. This is essentially an Adversary-in-the-Middle attack of the type LLMNR/NBT-NS Poisoning and SMB Relay (<a href="https://attack.mitre.org/techniques/T1557/001/">MITRE ATT&CK T1557.001</a>) to steal account names and passwords (<a href="https://attack.mitre.org/tactics/TA0006/">MITRE ATT&CK TA00006</a>)
+Compared to Module 02, where we used passive tools, this module used active attack tools. Before we get "cracking", we need to capture hashes first. We used **Responder**, an LLMNR, NBT-NS, MDNS poisoner. This was used to listen to file share communications over the SMB protocol by spoofing as a legitimate name resolver. Once our victim machine tried to retrieve a file share, it connected to the "totally legitimate" name resolver. Thus, Responder was able to listen and capture NTLMv2-SSP hashes, along with its IP Address and username. Now that we have the hash, we cracked it using **John the Ripper** with a wordlist. After a few minutes, John was able to find a plaintext password matching the hash of the victim. Since we have the IP address, username, and password at hand, we can now connect to the file share as the victim—**I'M IN.** This is essentially an Adversary-in-the-Middle attack of the type LLMNR/NBT-NS Poisoning and SMB Relay (<a href="https://attack.mitre.org/techniques/T1557/001/">MITRE ATT&CK T1557.001</a>) to steal account names and passwords (<a href="https://attack.mitre.org/tactics/TA0006/">MITRE ATT&CK TA00006</a>)
 
 Because there are multiple layers on this attack, we need to also secure those very layers. First, shut the doors at the transport layer (OSI Layer 4). UDP ports 5355 and 137 should be disabled if LLMNR and NBT-NS are not required. Next is to enforce the use of SMB version 3.0 or later by disabling v1/v2. If your organization requires LLMNR and NBT-NS, we need to secure the network layer (OSI Layer 3) to be able detect anomalous traffic on those ports by installing devices such as Network Intrusion Detection/Prevention Systems (NIDS/NIPS) like Snort along the network, or at the endpoints with Host-Based Intrusion Detection/Prevention Systems (HIDS/HIPS) like SolarWinds SEM. And finally at the application layer (OSI Layer 7), at the very least, we should audit passwords using John the Ripper (yes, the same one we used to crack it).
 
-**10 out of 10—I mean, it's password cracking.**
+**10 out of 10—that feeling of cracking a password is surreal.**
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/hacker-pc.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 ### Module 05: Social Engineering Techniques and Countermeasures
 
@@ -76,6 +84,14 @@ The course content for this is excellent, but I found the lab lacking. Social en
 Email phishing could be minimized with security awareness training and regular audits. We can also filter emails at the application level, or at the network level with a firewall. Lastly, be aware of TMI: Too. Much. Information. OSINT succeeds when the target overshares anything and everything about themselves.
 
 **2 out of 10—cyber hygiene: it's everyone's responsibility.**
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-24/reviewbrah-thereportoftheweek.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 ### Module 06: Network Level Attacks and Countermeasures
 
