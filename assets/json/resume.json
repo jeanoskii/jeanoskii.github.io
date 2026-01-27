@@ -104,6 +104,13 @@
   ],
   "certificates": [
     {
+      "name": "Network Enumeration with Nmap: Cybersecurity Labs Powered by Hack The Box",
+      "date": "2026-01",
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/f911b67c73691fb054cc2bf6b9b425f7ca80ac6a6c9761e5f5daf76b81e6daf6",
+      "icon": "fa-solid fa-user-secret"
+    },
+    {
       "name": "Introduction to Penetration Testing",
       "date": "2026-01",
       "issuer": "Security Blue Team",
