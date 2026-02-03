@@ -5,6 +5,7 @@ date: 2026-01-24 00:00:00
 description: My thoughts on EC-Council's EHE.
 tags: certification 
 categories: ethical-hacking review
+thumbnail: assets/img/posts/2026-01-24/EHE-1.webp
 ---
 
 Ahhhh, EC-Council: providers of the (<a href="https://www.reddit.com/r/cybersecurity/comments/1m4lkhr/is_ceh_with_practical_worth_it_for_someone_with/">in</a>)famous Certified Ethical Hacker (CEH). Today, we are going to explore their other offerings. Ethical Hacking Essentials, or EHE, is an introductory course aimed at beginner red team professionals. For those who want to break stuff and write a report about how you broke it and how to fix it, this is for you!
