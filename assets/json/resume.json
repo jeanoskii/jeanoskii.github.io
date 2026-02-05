@@ -104,6 +104,20 @@
   ],
   "certificates": [
     {
+      "name": "Introduction to Splunk SOAR",
+      "date": "2026-02",
+      "issuer": "Splunk",
+      "url": "https://jeanoskii.github.io/assets/pdf/splunk_soar_certificate.pdf",
+      "icon": "fa-solid fa-magnifying-glass"
+    },
+    {
+      "name": "Introduction to Splunk",
+      "date": "2026-02",
+      "issuer": "Splunk",
+      "url": "https://jeanoskii.github.io/assets/pdf/splunk_certificate.pdf",
+      "icon": "fa-solid fa-magnifying-glass"
+    },
+    {
       "name": "Network Enumeration with Nmap: Cybersecurity Labs Powered by Hack The Box",
       "date": "2026-01",
       "issuer": "LinkedIn",
