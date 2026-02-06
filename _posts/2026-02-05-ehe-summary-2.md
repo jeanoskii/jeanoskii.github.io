@@ -98,7 +98,7 @@ So to secure cloud: keep an eye on your usage; secure your API keys; review IAM 
 
 <div class="row mt-3 mb-4">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-25/where-you.gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-05/where-you.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
