@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ethical Hacking Essentials in a Nutshell (Part 2)
-date: 2026-01-24 00:00:00
+date: 2026-02-05 00:00:00
 description: My thoughts on EC-Council's EHE.
 tags: certification 
 categories: ethical-hacking review
