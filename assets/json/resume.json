@@ -104,6 +104,13 @@
   ],
   "certificates": [
     {
+      "name": "IT Leadership Professional",
+      "date": "2026-02",
+      "issuer": "ServiceNow",
+      "url": "https://www.linkedin.com/learning/certificates/c352525425072fa62e298a2be23d6c3262337ff89d9acfe4b0f2f49c08ec8096?trk=share_certificate",
+      "icon": "fa-solid fa-handshake"
+    },
+    {
       "name": "Introduction to Splunk SOAR",
       "date": "2026-02",
       "issuer": "Splunk",
