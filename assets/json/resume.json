@@ -104,6 +104,13 @@
   ],
   "certificates": [
     {
+      "name": "Footprinting: Cybersecurity Labs Powered by Hack The Box",
+      "date": "2026-02",
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/c4a8005d997d97fef1eaf80079c306f9199122a7fde4667770281d46fdefefa1?trk=share_certificate",
+      "icon": "fa-solid fa-user-secret"
+    },
+    {
       "name": "IT Leadership Professional",
       "date": "2026-02",
       "issuer": "ServiceNow",
