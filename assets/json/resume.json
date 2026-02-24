@@ -104,6 +104,13 @@
   ],
   "certificates": [
     {
+      "name": "Vulnerability Assessment: Cybersecurity Labs Powered by Hack The Box",
+      "date": "2026-02",
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/b7136bab48350fe527674691d72f1fb2d86b540cf71bec2fd19d31315fb49c67?trk=share_certificate",
+      "icon": "fa-solid fa-magnifying-glass"
+    },
+    {
       "name": "Footprinting: Cybersecurity Labs Powered by Hack The Box",
       "date": "2026-02",
       "issuer": "LinkedIn",
