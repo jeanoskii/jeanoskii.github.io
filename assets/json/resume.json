@@ -104,6 +104,13 @@
   ],
   "certificates": [
     {
+      "name": "Information Gathering - Web Edition: Cybersecurity Labs Powered by Hack The Box",
+      "date": "2026-02",
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/639f8496b3e231b21af7129591998f6f417b06e957314dc6258da957452ccf86?trk=share_certificate",
+      "icon": "fa-solid fa-user-secret"
+    },
+    {
       "name": "Vulnerability Assessment: Cybersecurity Labs Powered by Hack The Box",
       "date": "2026-02",
       "issuer": "LinkedIn",
