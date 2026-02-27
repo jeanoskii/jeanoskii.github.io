@@ -1,0 +1,13 @@
+This is a list of my training notes:
+- Nmap - Hack the Box Academy
+	- Finished January 27, 2026
+- Footprinting - Hack the Box Academy
+	-  Finished February 22, 2026
+- [[Vulnerability Assessment - Hack the Box Academy]]
+	- February 24, 2026
+- [[Information Gathering - Hack the Box Academy]]
+	- Finished February 25, 2026
+- [[Application Security Posture Management Security from the Supply Chain to Cloud Runtime]]
+	- Started February 26, 2026 (paused)
+- [[Penetration Testing Student - INE Security]]
+	- Started February 27, 2026 (active)
