@@ -8,7 +8,7 @@ categories: interview
 ---
 
 <div class="float-right">
-    {% capture sizes %}(min-width: "{{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+    {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
     {% include figure.liquid loading="eager" path="assets/img/posts/2026-03-30/jayson.jpg" class="img-fluid rounded z-depth-1 float-right" sizes=sizes %}
 </div>
 <div class="clearfix">
