@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Marathon Mindset: Lessons from a 20-Year Journey
+title: "The Marathon Mindset: Lessons from a 20-Year Journey"
 date: 2026-03-30 00:00:00
-description: Story of passion and practical advice on cybersecurity careers
+description: "Story of passion and practical advice on cybersecurity careers"
 tags: advice
 categories: interview
 ---
