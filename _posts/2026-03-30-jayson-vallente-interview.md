@@ -17,7 +17,7 @@ categories: interview
     </p>
     <h3>From the Server Room to the Director’s Chair</h3>
     <p>
-        Jayson’s journey didn't begin at the top. In 2008, he was working in technical support and webhosting administration for HP. His "aha!" moment didn't come from a textbook but through hands-on experience and the guidance of mentors like Dax Labrador, who introduced him to the ROOTCON community. This highlights a critical insight for anyone entering the field: technical skills are the baseline, but community and mentorship are the catalysts for growth.
+        Jayson’s journey didn't begin at the top. In 2008, he was working in technical support and webhosting administration for HP. His "aha!" moment didn't come from a textbook but through hands-on experience and the guidance of mentors like Dax Labrador, who introduced him to the <a href="https://www.rootcon.org/">ROOTCON</a> community. This highlights a critical insight for anyone entering the field: technical skills are the baseline, but community and mentorship are the catalysts for growth.
     </p>
     <p>
         His career is a story of creating your own luck. While working as a system administrator at PSBank, he proactively engaged with the CISO to take on security responsibilities, effectively building his own bridge into the world of professional security. This eventually led him to specialized roles in Singapore and back to the Philippines, where he rose through management to become a Director.
@@ -35,7 +35,7 @@ categories: interview
     </p>
     <h3>Sustainable Growth and the Hacker Way of Life</h3>
     <p>
-        The most important takeaway for any enthusiast is Jayson's philosophy on longevity. To survive two decades in a high-pressure environment, one must avoid the "burnout sprint". His rule of thumb is sustainable: "one cert a year, one topic a year". By focusing on depth rather than width, you allow yourself the space to *actually enjoy* the process of discovery.
+        The most important takeaway for any enthusiast is Jayson's philosophy on longevity. To survive two decades in a high-pressure environment, one must avoid the "burnout sprint". His rule of thumb is sustainable: "one cert a year, one topic a year". By focusing on depth rather than width, you allow yourself the space to <em>actually enjoy</em> the process of discovery.
     </p>
     <p>
         Ultimately, Jayson views "hacking" as more than just a job; it is a way of life. It’s a creative way of thinking—looking at a system and finding a way around it. Whether he’s brewing a quick "Vietnamese-style" coffee or leading a complex offensive engagement, that mindset of creative problem-solving remains the core of his success. For those of us following in his footsteps, the message is clear: <strong>Stay curious, stay passionate, and above all—Try Harder</strong>
