@@ -15,9 +15,7 @@ categories: interview
     <p>
         In the fast-paced world of cybersecurity, it’s easy to get caught up in the "sprint"—the next certification, the latest exploit, or the newest tool. However, a recent conversation with <strong><a href="https://www.linkedin.com/in/jhvallente/">Jayson Vallente</a></strong>, Director for Offense at <a href="https://theos-cyber.com/">Theos Cyber</a>, served as a powerful reminder that this field is actually a marathon. Jayson, a self-described "Hacker Enthusiast" and "Coffee Ninja," has spent two decades navigating the evolving landscape of security, and his path offers a masterclass in persistence and the "doer" mindset.
     </p>
-
     <h3>From the Server Room to the Director’s Chair</h3>
-
     <p>
         Jayson’s journey didn't begin at the top. In 2008, he was working in technical support and webhosting administration for HP. His "aha!" moment didn't come from a textbook but through hands-on experience and the guidance of mentors like Dax Labrador, who introduced him to the ROOTCON community. This highlights a critical insight for anyone entering the field: technical skills are the baseline, but community and mentorship are the catalysts for growth.
     </p>
