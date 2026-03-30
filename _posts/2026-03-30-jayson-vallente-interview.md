@@ -7,10 +7,15 @@ tags: advice
 categories: interview
 ---
 
-In the fast-paced world of cybersecurity, it’s easy to get caught up in the "sprint"—the next certification, the latest exploit, or the newest tool. However, a recent conversation with **[Jayson Vallente](https://www.linkedin.com/in/jhvallente/)**, Director for Offense at [Theos Cyber](https://theos-cyber.com/), served as a powerful reminder that this field is actually a marathon. Jayson, a self-described "Hacker Enthusiast" and "Coffee Ninja," has spent two decades navigating the evolving landscape of security, and his path offers a masterclass in persistence and the "doer" mindset.
-
-{% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-{% include figure.liquid loading="eager" path="assets/img/posts/2026-03-30/jayson.jpg" class="img-fluid rounded z-depth-1 float-right" sizes=sizes %}
+<article>
+    <div class="float-right">
+        {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/2026-03-30/jayson.jpg" class="img-fluid rounded z-depth-1 float-right" sizes=sizes %}
+    </div>
+    <div class="clearfox">
+        In the fast-paced world of cybersecurity, it’s easy to get caught up in the "sprint"—the next certification, the latest exploit, or the newest tool. However, a recent conversation with **[Jayson Vallente](https://www.linkedin.com/in/jhvallente/)**, Director for Offense at [Theos Cyber](https://theos-cyber.com/), served as a powerful reminder that this field is actually a marathon. Jayson, a self-described "Hacker Enthusiast" and "Coffee Ninja," has spent two decades navigating the evolving landscape of security, and his path offers a masterclass in persistence and the "doer" mindset.
+    </div>
+</article>
 
 ### From the Server Room to the Director’s Chair
 
